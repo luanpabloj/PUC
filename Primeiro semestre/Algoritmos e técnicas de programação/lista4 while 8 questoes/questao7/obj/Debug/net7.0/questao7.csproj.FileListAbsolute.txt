@@ -1,0 +1,15 @@
+C:\Users\luant\OneDrive\Área de Trabalho\puc\ATP\lista4 while 8 questoes\questao7\obj\Debug\net7.0\questao7.csproj.AssemblyReference.cache
+C:\Users\luant\OneDrive\Área de Trabalho\puc\ATP\lista4 while 8 questoes\questao7\obj\Debug\net7.0\questao7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luant\OneDrive\Área de Trabalho\puc\ATP\lista4 while 8 questoes\questao7\obj\Debug\net7.0\questao7.AssemblyInfoInputs.cache
+C:\Users\luant\OneDrive\Área de Trabalho\puc\ATP\lista4 while 8 questoes\questao7\obj\Debug\net7.0\questao7.AssemblyInfo.cs
+C:\Users\luant\OneDrive\Área de Trabalho\puc\ATP\lista4 while 8 questoes\questao7\obj\Debug\net7.0\questao7.csproj.CoreCompileInputs.cache
+C:\Users\luant\OneDrive\Área de Trabalho\puc\ATP\lista4 while 8 questoes\questao7\bin\Debug\net7.0\questao7.exe
+C:\Users\luant\OneDrive\Área de Trabalho\puc\ATP\lista4 while 8 questoes\questao7\bin\Debug\net7.0\questao7.deps.json
+C:\Users\luant\OneDrive\Área de Trabalho\puc\ATP\lista4 while 8 questoes\questao7\bin\Debug\net7.0\questao7.runtimeconfig.json
+C:\Users\luant\OneDrive\Área de Trabalho\puc\ATP\lista4 while 8 questoes\questao7\bin\Debug\net7.0\questao7.dll
+C:\Users\luant\OneDrive\Área de Trabalho\puc\ATP\lista4 while 8 questoes\questao7\bin\Debug\net7.0\questao7.pdb
+C:\Users\luant\OneDrive\Área de Trabalho\puc\ATP\lista4 while 8 questoes\questao7\obj\Debug\net7.0\questao7.dll
+C:\Users\luant\OneDrive\Área de Trabalho\puc\ATP\lista4 while 8 questoes\questao7\obj\Debug\net7.0\refint\questao7.dll
+C:\Users\luant\OneDrive\Área de Trabalho\puc\ATP\lista4 while 8 questoes\questao7\obj\Debug\net7.0\questao7.pdb
+C:\Users\luant\OneDrive\Área de Trabalho\puc\ATP\lista4 while 8 questoes\questao7\obj\Debug\net7.0\questao7.genruntimeconfig.cache
+C:\Users\luant\OneDrive\Área de Trabalho\puc\ATP\lista4 while 8 questoes\questao7\obj\Debug\net7.0\ref\questao7.dll

@@ -1,0 +1,42 @@
+C:\Users\1434351\Desktop\program\bin\Debug\netcoreapp3.1\program.exe
+C:\Users\1434351\Desktop\program\bin\Debug\netcoreapp3.1\program.deps.json
+C:\Users\1434351\Desktop\program\bin\Debug\netcoreapp3.1\program.runtimeconfig.json
+C:\Users\1434351\Desktop\program\bin\Debug\netcoreapp3.1\program.runtimeconfig.dev.json
+C:\Users\1434351\Desktop\program\bin\Debug\netcoreapp3.1\program.dll
+C:\Users\1434351\Desktop\program\bin\Debug\netcoreapp3.1\program.pdb
+C:\Users\1434351\Desktop\program\obj\Debug\netcoreapp3.1\program.csproj.AssemblyReference.cache
+C:\Users\1434351\Desktop\program\obj\Debug\netcoreapp3.1\program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1434351\Desktop\program\obj\Debug\netcoreapp3.1\program.AssemblyInfoInputs.cache
+C:\Users\1434351\Desktop\program\obj\Debug\netcoreapp3.1\program.AssemblyInfo.cs
+C:\Users\1434351\Desktop\program\obj\Debug\netcoreapp3.1\program.csproj.CoreCompileInputs.cache
+C:\Users\1434351\Desktop\program\obj\Debug\netcoreapp3.1\program.dll
+C:\Users\1434351\Desktop\program\obj\Debug\netcoreapp3.1\program.pdb
+C:\Users\1434351\Desktop\program\obj\Debug\netcoreapp3.1\program.genruntimeconfig.cache
+C:\Users\1434351\Desktop\program\exercicio1\bin\Debug\netcoreapp3.1\program.exe
+C:\Users\1434351\Desktop\program\exercicio1\bin\Debug\netcoreapp3.1\program.deps.json
+C:\Users\1434351\Desktop\program\exercicio1\bin\Debug\netcoreapp3.1\program.runtimeconfig.json
+C:\Users\1434351\Desktop\program\exercicio1\bin\Debug\netcoreapp3.1\program.runtimeconfig.dev.json
+C:\Users\1434351\Desktop\program\exercicio1\bin\Debug\netcoreapp3.1\program.dll
+C:\Users\1434351\Desktop\program\exercicio1\bin\Debug\netcoreapp3.1\program.pdb
+C:\Users\1434351\Desktop\program\exercicio1\obj\Debug\netcoreapp3.1\program.csproj.AssemblyReference.cache
+C:\Users\1434351\Desktop\program\exercicio1\obj\Debug\netcoreapp3.1\program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1434351\Desktop\program\exercicio1\obj\Debug\netcoreapp3.1\program.AssemblyInfoInputs.cache
+C:\Users\1434351\Desktop\program\exercicio1\obj\Debug\netcoreapp3.1\program.AssemblyInfo.cs
+C:\Users\1434351\Desktop\program\exercicio1\obj\Debug\netcoreapp3.1\program.csproj.CoreCompileInputs.cache
+C:\Users\1434351\Desktop\program\exercicio1\obj\Debug\netcoreapp3.1\program.dll
+C:\Users\1434351\Desktop\program\exercicio1\obj\Debug\netcoreapp3.1\program.pdb
+C:\Users\1434351\Desktop\program\exercicio1\obj\Debug\netcoreapp3.1\program.genruntimeconfig.cache
+C:\Users\luant\OneDrive\Área de Trabalho\puc\program\exercicio1\bin\Debug\netcoreapp3.1\program.exe
+C:\Users\luant\OneDrive\Área de Trabalho\puc\program\exercicio1\bin\Debug\netcoreapp3.1\program.deps.json
+C:\Users\luant\OneDrive\Área de Trabalho\puc\program\exercicio1\bin\Debug\netcoreapp3.1\program.runtimeconfig.json
+C:\Users\luant\OneDrive\Área de Trabalho\puc\program\exercicio1\bin\Debug\netcoreapp3.1\program.runtimeconfig.dev.json
+C:\Users\luant\OneDrive\Área de Trabalho\puc\program\exercicio1\bin\Debug\netcoreapp3.1\program.dll
+C:\Users\luant\OneDrive\Área de Trabalho\puc\program\exercicio1\bin\Debug\netcoreapp3.1\program.pdb
+C:\Users\luant\OneDrive\Área de Trabalho\puc\program\exercicio1\obj\Debug\netcoreapp3.1\program.csproj.AssemblyReference.cache
+C:\Users\luant\OneDrive\Área de Trabalho\puc\program\exercicio1\obj\Debug\netcoreapp3.1\program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luant\OneDrive\Área de Trabalho\puc\program\exercicio1\obj\Debug\netcoreapp3.1\program.AssemblyInfoInputs.cache
+C:\Users\luant\OneDrive\Área de Trabalho\puc\program\exercicio1\obj\Debug\netcoreapp3.1\program.AssemblyInfo.cs
+C:\Users\luant\OneDrive\Área de Trabalho\puc\program\exercicio1\obj\Debug\netcoreapp3.1\program.csproj.CoreCompileInputs.cache
+C:\Users\luant\OneDrive\Área de Trabalho\puc\program\exercicio1\obj\Debug\netcoreapp3.1\program.dll
+C:\Users\luant\OneDrive\Área de Trabalho\puc\program\exercicio1\obj\Debug\netcoreapp3.1\program.pdb
+C:\Users\luant\OneDrive\Área de Trabalho\puc\program\exercicio1\obj\Debug\netcoreapp3.1\program.genruntimeconfig.cache
