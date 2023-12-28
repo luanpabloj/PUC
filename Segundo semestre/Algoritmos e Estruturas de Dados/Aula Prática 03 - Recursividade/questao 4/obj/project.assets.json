@@ -13,19 +13,21 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\luanp\\OneDrive\\Área de Trabalho\\programação\\AED\\Aula prática - recursividade\\questao 4\\questao 4.csproj",
+      "projectUniqueName": "C:\\Users\\luanp\\OneDrive\\Área de Trabalho\\programação\\Algoritmos e Estruturas de Dados\\Aula Prática 03 - Recursividade\\questao 4\\questao 4.csproj",
       "projectName": "questao 4",
-      "projectPath": "C:\\Users\\luanp\\OneDrive\\Área de Trabalho\\programação\\AED\\Aula prática - recursividade\\questao 4\\questao 4.csproj",
+      "projectPath": "C:\\Users\\luanp\\OneDrive\\Área de Trabalho\\programação\\Algoritmos e Estruturas de Dados\\Aula Prática 03 - Recursividade\\questao 4\\questao 4.csproj",
       "packagesPath": "C:\\Users\\luanp\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\luanp\\OneDrive\\Área de Trabalho\\programação\\AED\\Aula prática - recursividade\\questao 4\\obj\\",
+      "outputPath": "C:\\Users\\luanp\\OneDrive\\Área de Trabalho\\programação\\Algoritmos e Estruturas de Dados\\Aula Prática 03 - Recursividade\\questao 4\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\luanp\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\luanp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -59,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.411\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\luanp\\OneDrive\\Área de Trabalho\\programação\\AED\\Aula Prática - Collections\\questao3\\questao3.csproj",
+      "projectUniqueName": "C:\\Users\\luanp\\OneDrive\\Área de Trabalho\\programação\\Algoritmos e Estruturas de Dados\\Aula Prática - Collections\\questao3\\questao3.csproj",
       "projectName": "questao3",
-      "projectPath": "C:\\Users\\luanp\\OneDrive\\Área de Trabalho\\programação\\AED\\Aula Prática - Collections\\questao3\\questao3.csproj",
+      "projectPath": "C:\\Users\\luanp\\OneDrive\\Área de Trabalho\\programação\\Algoritmos e Estruturas de Dados\\Aula Prática - Collections\\questao3\\questao3.csproj",
       "packagesPath": "C:\\Users\\luanp\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\luanp\\OneDrive\\Área de Trabalho\\programação\\AED\\Aula Prática - Collections\\questao3\\obj\\",
+      "outputPath": "C:\\Users\\luanp\\OneDrive\\Área de Trabalho\\programação\\Algoritmos e Estruturas de Dados\\Aula Prática - Collections\\questao3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\luanp\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.411\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.416\\RuntimeIdentifierGraph.json"
       }
     }
   }
