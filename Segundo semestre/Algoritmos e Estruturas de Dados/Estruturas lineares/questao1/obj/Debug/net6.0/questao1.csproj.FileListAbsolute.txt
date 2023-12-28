@@ -1,0 +1,30 @@
+C:\Users\luanp\OneDrive\Área de Trabalho\programação\AED\Aula Prática - Collections\questao1\obj\Debug\net6.0\questao1.csproj.AssemblyReference.cache
+C:\Users\luanp\OneDrive\Área de Trabalho\programação\AED\Aula Prática - Collections\questao1\obj\Debug\net6.0\questao1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luanp\OneDrive\Área de Trabalho\programação\AED\Aula Prática - Collections\questao1\obj\Debug\net6.0\questao1.AssemblyInfoInputs.cache
+C:\Users\luanp\OneDrive\Área de Trabalho\programação\AED\Aula Prática - Collections\questao1\obj\Debug\net6.0\questao1.AssemblyInfo.cs
+C:\Users\luanp\OneDrive\Área de Trabalho\programação\AED\Aula Prática - Collections\questao1\obj\Debug\net6.0\questao1.csproj.CoreCompileInputs.cache
+C:\Users\luanp\OneDrive\Área de Trabalho\programação\AED\Aula Prática - Collections\questao1\bin\Debug\net6.0\questao1.exe
+C:\Users\luanp\OneDrive\Área de Trabalho\programação\AED\Aula Prática - Collections\questao1\bin\Debug\net6.0\questao1.deps.json
+C:\Users\luanp\OneDrive\Área de Trabalho\programação\AED\Aula Prática - Collections\questao1\bin\Debug\net6.0\questao1.runtimeconfig.json
+C:\Users\luanp\OneDrive\Área de Trabalho\programação\AED\Aula Prática - Collections\questao1\bin\Debug\net6.0\questao1.dll
+C:\Users\luanp\OneDrive\Área de Trabalho\programação\AED\Aula Prática - Collections\questao1\bin\Debug\net6.0\questao1.pdb
+C:\Users\luanp\OneDrive\Área de Trabalho\programação\AED\Aula Prática - Collections\questao1\obj\Debug\net6.0\questao1.dll
+C:\Users\luanp\OneDrive\Área de Trabalho\programação\AED\Aula Prática - Collections\questao1\obj\Debug\net6.0\refint\questao1.dll
+C:\Users\luanp\OneDrive\Área de Trabalho\programação\AED\Aula Prática - Collections\questao1\obj\Debug\net6.0\questao1.pdb
+C:\Users\luanp\OneDrive\Área de Trabalho\programação\AED\Aula Prática - Collections\questao1\obj\Debug\net6.0\questao1.genruntimeconfig.cache
+C:\Users\luanp\OneDrive\Área de Trabalho\programação\AED\Aula Prática - Collections\questao1\obj\Debug\net6.0\ref\questao1.dll
+C:\Users\luanp\OneDrive\Área de Trabalho\programação\Algoritmos e Estruturas de Dados\Aula Prática - Estrutura lineares\questao1\obj\Debug\net6.0\questao1.csproj.AssemblyReference.cache
+C:\Users\luanp\OneDrive\Área de Trabalho\programação\Algoritmos e Estruturas de Dados\Aula Prática - Estrutura lineares\questao1\obj\Debug\net6.0\questao1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luanp\OneDrive\Área de Trabalho\programação\Algoritmos e Estruturas de Dados\Aula Prática - Estrutura lineares\questao1\obj\Debug\net6.0\questao1.AssemblyInfoInputs.cache
+C:\Users\luanp\OneDrive\Área de Trabalho\programação\Algoritmos e Estruturas de Dados\Aula Prática - Estrutura lineares\questao1\obj\Debug\net6.0\questao1.AssemblyInfo.cs
+C:\Users\luanp\OneDrive\Área de Trabalho\programação\Algoritmos e Estruturas de Dados\Aula Prática - Estrutura lineares\questao1\obj\Debug\net6.0\questao1.csproj.CoreCompileInputs.cache
+C:\Users\luanp\OneDrive\Área de Trabalho\programação\Algoritmos e Estruturas de Dados\Aula Prática - Estrutura lineares\questao1\obj\Debug\net6.0\questao1.dll
+C:\Users\luanp\OneDrive\Área de Trabalho\programação\Algoritmos e Estruturas de Dados\Aula Prática - Estrutura lineares\questao1\obj\Debug\net6.0\refint\questao1.dll
+C:\Users\luanp\OneDrive\Área de Trabalho\programação\Algoritmos e Estruturas de Dados\Aula Prática - Estrutura lineares\questao1\obj\Debug\net6.0\questao1.pdb
+C:\Users\luanp\OneDrive\Área de Trabalho\programação\Algoritmos e Estruturas de Dados\Aula Prática - Estrutura lineares\questao1\bin\Debug\net6.0\questao1.exe
+C:\Users\luanp\OneDrive\Área de Trabalho\programação\Algoritmos e Estruturas de Dados\Aula Prática - Estrutura lineares\questao1\bin\Debug\net6.0\questao1.deps.json
+C:\Users\luanp\OneDrive\Área de Trabalho\programação\Algoritmos e Estruturas de Dados\Aula Prática - Estrutura lineares\questao1\bin\Debug\net6.0\questao1.runtimeconfig.json
+C:\Users\luanp\OneDrive\Área de Trabalho\programação\Algoritmos e Estruturas de Dados\Aula Prática - Estrutura lineares\questao1\bin\Debug\net6.0\questao1.dll
+C:\Users\luanp\OneDrive\Área de Trabalho\programação\Algoritmos e Estruturas de Dados\Aula Prática - Estrutura lineares\questao1\bin\Debug\net6.0\questao1.pdb
+C:\Users\luanp\OneDrive\Área de Trabalho\programação\Algoritmos e Estruturas de Dados\Aula Prática - Estrutura lineares\questao1\obj\Debug\net6.0\questao1.genruntimeconfig.cache
+C:\Users\luanp\OneDrive\Área de Trabalho\programação\Algoritmos e Estruturas de Dados\Aula Prática - Estrutura lineares\questao1\obj\Debug\net6.0\ref\questao1.dll

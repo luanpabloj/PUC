@@ -1,0 +1,15 @@
+C:\Users\luanp\OneDrive\Área de Trabalho\teste\PUC\Segundo semestre\Algoritmos e Estruturas de Dados\aula 1 ana paula\bin\Debug\net8.0\aula 1 ana paula.exe
+C:\Users\luanp\OneDrive\Área de Trabalho\teste\PUC\Segundo semestre\Algoritmos e Estruturas de Dados\aula 1 ana paula\bin\Debug\net8.0\aula 1 ana paula.deps.json
+C:\Users\luanp\OneDrive\Área de Trabalho\teste\PUC\Segundo semestre\Algoritmos e Estruturas de Dados\aula 1 ana paula\bin\Debug\net8.0\aula 1 ana paula.runtimeconfig.json
+C:\Users\luanp\OneDrive\Área de Trabalho\teste\PUC\Segundo semestre\Algoritmos e Estruturas de Dados\aula 1 ana paula\bin\Debug\net8.0\aula 1 ana paula.dll
+C:\Users\luanp\OneDrive\Área de Trabalho\teste\PUC\Segundo semestre\Algoritmos e Estruturas de Dados\aula 1 ana paula\bin\Debug\net8.0\aula 1 ana paula.pdb
+C:\Users\luanp\OneDrive\Área de Trabalho\teste\PUC\Segundo semestre\Algoritmos e Estruturas de Dados\aula 1 ana paula\obj\Debug\net8.0\aula 1 ana paula.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luanp\OneDrive\Área de Trabalho\teste\PUC\Segundo semestre\Algoritmos e Estruturas de Dados\aula 1 ana paula\obj\Debug\net8.0\aula 1 ana paula.AssemblyInfoInputs.cache
+C:\Users\luanp\OneDrive\Área de Trabalho\teste\PUC\Segundo semestre\Algoritmos e Estruturas de Dados\aula 1 ana paula\obj\Debug\net8.0\aula 1 ana paula.AssemblyInfo.cs
+C:\Users\luanp\OneDrive\Área de Trabalho\teste\PUC\Segundo semestre\Algoritmos e Estruturas de Dados\aula 1 ana paula\obj\Debug\net8.0\aula 1 ana paula.csproj.CoreCompileInputs.cache
+C:\Users\luanp\OneDrive\Área de Trabalho\teste\PUC\Segundo semestre\Algoritmos e Estruturas de Dados\aula 1 ana paula\obj\Debug\net8.0\aula 1 ana paula.sourcelink.json
+C:\Users\luanp\OneDrive\Área de Trabalho\teste\PUC\Segundo semestre\Algoritmos e Estruturas de Dados\aula 1 ana paula\obj\Debug\net8.0\aula 1 ana paula.dll
+C:\Users\luanp\OneDrive\Área de Trabalho\teste\PUC\Segundo semestre\Algoritmos e Estruturas de Dados\aula 1 ana paula\obj\Debug\net8.0\refint\aula 1 ana paula.dll
+C:\Users\luanp\OneDrive\Área de Trabalho\teste\PUC\Segundo semestre\Algoritmos e Estruturas de Dados\aula 1 ana paula\obj\Debug\net8.0\aula 1 ana paula.pdb
+C:\Users\luanp\OneDrive\Área de Trabalho\teste\PUC\Segundo semestre\Algoritmos e Estruturas de Dados\aula 1 ana paula\obj\Debug\net8.0\aula 1 ana paula.genruntimeconfig.cache
+C:\Users\luanp\OneDrive\Área de Trabalho\teste\PUC\Segundo semestre\Algoritmos e Estruturas de Dados\aula 1 ana paula\obj\Debug\net8.0\ref\aula 1 ana paula.dll
