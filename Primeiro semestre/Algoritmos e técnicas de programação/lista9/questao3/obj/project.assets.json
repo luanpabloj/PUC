@@ -8,24 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\luant\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\luanp\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\luant\\OneDrive\\Área de Trabalho\\puc\\ATP\\lista9\\questao3\\questao3.csproj",
+      "projectUniqueName": "C:\\Users\\luanp\\OneDrive\\Área de Trabalho\\teste\\PUC\\Primeiro semestre\\Algoritmos e técnicas de programação\\lista9\\questao3\\questao3.csproj",
       "projectName": "questao3",
-      "projectPath": "C:\\Users\\luant\\OneDrive\\Área de Trabalho\\puc\\ATP\\lista9\\questao3\\questao3.csproj",
-      "packagesPath": "C:\\Users\\luant\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\luant\\OneDrive\\Área de Trabalho\\puc\\ATP\\lista9\\questao3\\obj\\",
+      "projectPath": "C:\\Users\\luanp\\OneDrive\\Área de Trabalho\\teste\\PUC\\Primeiro semestre\\Algoritmos e técnicas de programação\\lista9\\questao3\\questao3.csproj",
+      "packagesPath": "C:\\Users\\luanp\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\luanp\\OneDrive\\Área de Trabalho\\teste\\PUC\\Primeiro semestre\\Algoritmos e técnicas de programação\\lista9\\questao3\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\luant\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\luanp\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -61,30 +56,12 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[6.0.14, 6.0.14]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Host.win-x64",
-            "version": "[6.0.14, 6.0.14]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Ref",
-            "version": "[6.0.14, 6.0.14]"
-          },
-          {
-            "name": "Microsoft.WindowsDesktop.App.Ref",
-            "version": "[6.0.14, 6.0.14]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

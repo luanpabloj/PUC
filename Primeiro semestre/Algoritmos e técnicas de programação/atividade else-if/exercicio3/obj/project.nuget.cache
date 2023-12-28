@@ -1,13 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "+q17LglEhKux36SQcUlO3075XEwNXeO6VzXSmLQ4WrmaGMkE26/GHz3z1PuLZ2aDpVh/ZP+R5xFiVFPEXOnCnQ==",
+  "dgSpecHash": "BE/17/ApNAWfeYgHj3c5fZGaDWBWsE8yspMJPWfhyoOxJeaBlDPtkOQCUIEenT0qMy87LWE2R2NTgDkvcq3WjQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\luant\\OneDrive\\Área de Trabalho\\puc\\program\\exercicio3\\exercicio3.csproj",
+  "projectFilePath": "C:\\Users\\luanp\\OneDrive\\Área de Trabalho\\teste\\PUC\\Primeiro semestre\\Algoritmos e técnicas de programação\\atividade else-if\\exercicio3\\exercicio3.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\luant\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
-    "C:\\Users\\luant\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
-    "C:\\Users\\luant\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
-    "C:\\Users\\luant\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+    "C:\\Users\\luanp\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\luanp\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\luanp\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\luanp\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
   ],
   "logs": []
 }

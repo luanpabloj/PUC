@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\e248223\\Desktop\\Nova pasta\\questao1\\questao1.csproj": {}
+    "C:\\Users\\luanp\\OneDrive\\Área de Trabalho\\teste\\PUC\\Primeiro semestre\\Algoritmos e técnicas de programação\\lista7repeticaofor\\questao1\\questao1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\e248223\\Desktop\\Nova pasta\\questao1\\questao1.csproj": {
+    "C:\\Users\\luanp\\OneDrive\\Área de Trabalho\\teste\\PUC\\Primeiro semestre\\Algoritmos e técnicas de programação\\lista7repeticaofor\\questao1\\questao1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\e248223\\Desktop\\Nova pasta\\questao1\\questao1.csproj",
+        "projectUniqueName": "C:\\Users\\luanp\\OneDrive\\Área de Trabalho\\teste\\PUC\\Primeiro semestre\\Algoritmos e técnicas de programação\\lista7repeticaofor\\questao1\\questao1.csproj",
         "projectName": "questao1",
-        "projectPath": "C:\\Users\\e248223\\Desktop\\Nova pasta\\questao1\\questao1.csproj",
-        "packagesPath": "C:\\Users\\e248223\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\e248223\\Desktop\\Nova pasta\\questao1\\obj\\",
+        "projectPath": "C:\\Users\\luanp\\OneDrive\\Área de Trabalho\\teste\\PUC\\Primeiro semestre\\Algoritmos e técnicas de programação\\lista7repeticaofor\\questao1\\questao1.csproj",
+        "packagesPath": "C:\\Users\\luanp\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\luanp\\OneDrive\\Área de Trabalho\\teste\\PUC\\Primeiro semestre\\Algoritmos e técnicas de programação\\lista7repeticaofor\\questao1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\e248223\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\luanp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -53,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.408\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

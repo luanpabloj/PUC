@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "3sDZ4KYdRkQbnn1jIhvoaD3bd6pMsBGkqeln067U4msdPl2ae2STlhUWer+X9GtWTbqVs/aydfCnB17+DnU+1w==",
+  "dgSpecHash": "seM8mqX2iPd8YdNhXVm3rL6cDB1ahNCsTGBpy+fsSbhu2Te017BO4o9jdH724yMXVz6jY2AK2tmP2JUC2gmxrQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\luant\\OneDrive\\Área de Trabalho\\puc\\ATP\\Lista vetores teoria\\questao4\\questao4.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\luanp\\OneDrive\\Área de Trabalho\\teste\\PUC\\Primeiro semestre\\Algoritmos e técnicas de programação\\Lista vetores teoria\\questao4\\questao4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\luanp\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\luanp\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\luanp\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\luanp\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512"
+  ],
   "logs": []
 }

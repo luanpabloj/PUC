@@ -8,24 +8,26 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\e248223\\.nuget\\packages\\": {}
+    "C:\\Users\\luanp\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\e248223\\Desktop\\atividade8\\questao3\\questao3.csproj",
+      "projectUniqueName": "C:\\Users\\luanp\\OneDrive\\Área de Trabalho\\teste\\PUC\\Primeiro semestre\\Algoritmos e técnicas de programação\\atividade8\\questao3\\questao3.csproj",
       "projectName": "questao3",
-      "projectPath": "C:\\Users\\e248223\\Desktop\\atividade8\\questao3\\questao3.csproj",
-      "packagesPath": "C:\\Users\\e248223\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\e248223\\Desktop\\atividade8\\questao3\\obj\\",
+      "projectPath": "C:\\Users\\luanp\\OneDrive\\Área de Trabalho\\teste\\PUC\\Primeiro semestre\\Algoritmos e técnicas de programação\\atividade8\\questao3\\questao3.csproj",
+      "packagesPath": "C:\\Users\\luanp\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\luanp\\OneDrive\\Área de Trabalho\\teste\\PUC\\Primeiro semestre\\Algoritmos e técnicas de programação\\atividade8\\questao3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\e248223\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\luanp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -59,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.408\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

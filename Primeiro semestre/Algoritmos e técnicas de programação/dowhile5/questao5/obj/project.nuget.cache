@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "AluF6JEZW4p3j96yuisg3KpW6Q/6CJ3l3Qx0qM+yHGv2TrL7SkuYB+FOt1M4r+bKbTl7FpHAwrAKfSL7NNuIQA==",
+  "dgSpecHash": "qrGClU0TXQdk0vcJhGyKVDXXZTxDeX92cf1NdHin1rny5riyRPoPZOtMyz5n4FS9uprn0G26Vrz04SRV5PIWuQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\1434351\\Desktop\\dowhile\\questao5\\questao5.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\luanp\\OneDrive\\Área de Trabalho\\teste\\PUC\\Primeiro semestre\\Algoritmos e técnicas de programação\\dowhile5\\questao5\\questao5.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\luanp\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\luanp\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\luanp\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\luanp\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cLyyw6FCY3MP5gBBWhKUI/2mSoviaZNrwSTlt4mjbLMlVDyHV8WdV1enS16QcEBCv7NqwTITarLycjdDtWDS0A==",
+  "dgSpecHash": "ZDYffxbBfKeSkChZMN3H6+oEVE6qMbQD8z/QMs8rMLMujop1NICoov1WK3KhmXCxBche+IQhbaxfMOTHBMzGZA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\luant\\OneDrive\\Área de Trabalho\\puc\\ATP\\lista9\\questao3\\questao3.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\luant\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.14\\microsoft.netcore.app.ref.6.0.14.nupkg.sha512",
-    "C:\\Users\\luant\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.14\\microsoft.windowsdesktop.app.ref.6.0.14.nupkg.sha512",
-    "C:\\Users\\luant\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.14\\microsoft.aspnetcore.app.ref.6.0.14.nupkg.sha512",
-    "C:\\Users\\luant\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.14\\microsoft.netcore.app.host.win-x64.6.0.14.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\luanp\\OneDrive\\Área de Trabalho\\teste\\PUC\\Primeiro semestre\\Algoritmos e técnicas de programação\\lista9\\questao3\\questao3.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
