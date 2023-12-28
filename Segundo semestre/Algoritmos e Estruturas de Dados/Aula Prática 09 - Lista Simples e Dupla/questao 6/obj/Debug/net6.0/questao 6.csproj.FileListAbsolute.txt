@@ -1,0 +1,15 @@
+C:\Users\luanp\OneDrive\Área de Trabalho\programação\Algoritmos e Estruturas de Dados\Aula Prática 09 - Lista Simples e Dupla\questao 6\obj\Debug\net6.0\questao 6.csproj.AssemblyReference.cache
+C:\Users\luanp\OneDrive\Área de Trabalho\programação\Algoritmos e Estruturas de Dados\Aula Prática 09 - Lista Simples e Dupla\questao 6\obj\Debug\net6.0\questao 6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luanp\OneDrive\Área de Trabalho\programação\Algoritmos e Estruturas de Dados\Aula Prática 09 - Lista Simples e Dupla\questao 6\obj\Debug\net6.0\questao 6.AssemblyInfoInputs.cache
+C:\Users\luanp\OneDrive\Área de Trabalho\programação\Algoritmos e Estruturas de Dados\Aula Prática 09 - Lista Simples e Dupla\questao 6\obj\Debug\net6.0\questao 6.AssemblyInfo.cs
+C:\Users\luanp\OneDrive\Área de Trabalho\programação\Algoritmos e Estruturas de Dados\Aula Prática 09 - Lista Simples e Dupla\questao 6\obj\Debug\net6.0\questao 6.csproj.CoreCompileInputs.cache
+C:\Users\luanp\OneDrive\Área de Trabalho\programação\Algoritmos e Estruturas de Dados\Aula Prática 09 - Lista Simples e Dupla\questao 6\bin\Debug\net6.0\questao 6.exe
+C:\Users\luanp\OneDrive\Área de Trabalho\programação\Algoritmos e Estruturas de Dados\Aula Prática 09 - Lista Simples e Dupla\questao 6\bin\Debug\net6.0\questao 6.deps.json
+C:\Users\luanp\OneDrive\Área de Trabalho\programação\Algoritmos e Estruturas de Dados\Aula Prática 09 - Lista Simples e Dupla\questao 6\bin\Debug\net6.0\questao 6.runtimeconfig.json
+C:\Users\luanp\OneDrive\Área de Trabalho\programação\Algoritmos e Estruturas de Dados\Aula Prática 09 - Lista Simples e Dupla\questao 6\bin\Debug\net6.0\questao 6.dll
+C:\Users\luanp\OneDrive\Área de Trabalho\programação\Algoritmos e Estruturas de Dados\Aula Prática 09 - Lista Simples e Dupla\questao 6\bin\Debug\net6.0\questao 6.pdb
+C:\Users\luanp\OneDrive\Área de Trabalho\programação\Algoritmos e Estruturas de Dados\Aula Prática 09 - Lista Simples e Dupla\questao 6\obj\Debug\net6.0\questao 6.dll
+C:\Users\luanp\OneDrive\Área de Trabalho\programação\Algoritmos e Estruturas de Dados\Aula Prática 09 - Lista Simples e Dupla\questao 6\obj\Debug\net6.0\refint\questao 6.dll
+C:\Users\luanp\OneDrive\Área de Trabalho\programação\Algoritmos e Estruturas de Dados\Aula Prática 09 - Lista Simples e Dupla\questao 6\obj\Debug\net6.0\questao 6.pdb
+C:\Users\luanp\OneDrive\Área de Trabalho\programação\Algoritmos e Estruturas de Dados\Aula Prática 09 - Lista Simples e Dupla\questao 6\obj\Debug\net6.0\questao 6.genruntimeconfig.cache
+C:\Users\luanp\OneDrive\Área de Trabalho\programação\Algoritmos e Estruturas de Dados\Aula Prática 09 - Lista Simples e Dupla\questao 6\obj\Debug\net6.0\ref\questao 6.dll

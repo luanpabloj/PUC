@@ -1,0 +1,15 @@
+C:\Users\luanp\OneDrive\Área de Trabalho\programação\Algoritmos e Estruturas de Dados\Aula Prática 13 - Árvore Binária de Pesquisa - AVL - Hash\questao 2\bin\Debug\net8.0\questao 2.exe
+C:\Users\luanp\OneDrive\Área de Trabalho\programação\Algoritmos e Estruturas de Dados\Aula Prática 13 - Árvore Binária de Pesquisa - AVL - Hash\questao 2\bin\Debug\net8.0\questao 2.deps.json
+C:\Users\luanp\OneDrive\Área de Trabalho\programação\Algoritmos e Estruturas de Dados\Aula Prática 13 - Árvore Binária de Pesquisa - AVL - Hash\questao 2\bin\Debug\net8.0\questao 2.runtimeconfig.json
+C:\Users\luanp\OneDrive\Área de Trabalho\programação\Algoritmos e Estruturas de Dados\Aula Prática 13 - Árvore Binária de Pesquisa - AVL - Hash\questao 2\bin\Debug\net8.0\questao 2.dll
+C:\Users\luanp\OneDrive\Área de Trabalho\programação\Algoritmos e Estruturas de Dados\Aula Prática 13 - Árvore Binária de Pesquisa - AVL - Hash\questao 2\bin\Debug\net8.0\questao 2.pdb
+C:\Users\luanp\OneDrive\Área de Trabalho\programação\Algoritmos e Estruturas de Dados\Aula Prática 13 - Árvore Binária de Pesquisa - AVL - Hash\questao 2\obj\Debug\net8.0\questao 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luanp\OneDrive\Área de Trabalho\programação\Algoritmos e Estruturas de Dados\Aula Prática 13 - Árvore Binária de Pesquisa - AVL - Hash\questao 2\obj\Debug\net8.0\questao 2.AssemblyInfoInputs.cache
+C:\Users\luanp\OneDrive\Área de Trabalho\programação\Algoritmos e Estruturas de Dados\Aula Prática 13 - Árvore Binária de Pesquisa - AVL - Hash\questao 2\obj\Debug\net8.0\questao 2.AssemblyInfo.cs
+C:\Users\luanp\OneDrive\Área de Trabalho\programação\Algoritmos e Estruturas de Dados\Aula Prática 13 - Árvore Binária de Pesquisa - AVL - Hash\questao 2\obj\Debug\net8.0\questao 2.csproj.CoreCompileInputs.cache
+C:\Users\luanp\OneDrive\Área de Trabalho\programação\Algoritmos e Estruturas de Dados\Aula Prática 13 - Árvore Binária de Pesquisa - AVL - Hash\questao 2\obj\Debug\net8.0\questao 2.sourcelink.json
+C:\Users\luanp\OneDrive\Área de Trabalho\programação\Algoritmos e Estruturas de Dados\Aula Prática 13 - Árvore Binária de Pesquisa - AVL - Hash\questao 2\obj\Debug\net8.0\questao 2.dll
+C:\Users\luanp\OneDrive\Área de Trabalho\programação\Algoritmos e Estruturas de Dados\Aula Prática 13 - Árvore Binária de Pesquisa - AVL - Hash\questao 2\obj\Debug\net8.0\refint\questao 2.dll
+C:\Users\luanp\OneDrive\Área de Trabalho\programação\Algoritmos e Estruturas de Dados\Aula Prática 13 - Árvore Binária de Pesquisa - AVL - Hash\questao 2\obj\Debug\net8.0\questao 2.pdb
+C:\Users\luanp\OneDrive\Área de Trabalho\programação\Algoritmos e Estruturas de Dados\Aula Prática 13 - Árvore Binária de Pesquisa - AVL - Hash\questao 2\obj\Debug\net8.0\questao 2.genruntimeconfig.cache
+C:\Users\luanp\OneDrive\Área de Trabalho\programação\Algoritmos e Estruturas de Dados\Aula Prática 13 - Árvore Binária de Pesquisa - AVL - Hash\questao 2\obj\Debug\net8.0\ref\questao 2.dll

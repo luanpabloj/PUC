@@ -1,0 +1,1872 @@
+﻿Método Shell ordenar: 
+Tempo de execução: 0 milissegundos
+Número de comparações: 7937
+Número de movimentações: 13382
+ 
+Método Shell ordenar: 
+Tempo de execução: 1 milissegundos
+Número de comparações: 7937
+Número de movimentações: 13382
+ 
+Método Shell ordenar: 
+Tempo de execução: 1 milissegundos
+Número de comparações: 7937
+Número de movimentações: 13382
+ 
+Método Shell ordenar: 
+Tempo de execução: 1 milissegundos
+Número de comparações: 7937
+Número de movimentações: 13382
+ 
+Método Shell ordenar: 
+Tempo de execução: 2 milissegundos
+Número de comparações: 7937
+Número de movimentações: 13382
+ 
+Método Shell ordenar: 
+Tempo de execução: 2 milissegundos
+Número de comparações: 7937
+Número de movimentações: 13382
+ 
+Método Shell ordenar: 
+Tempo de execução: 2 milissegundos
+Número de comparações: 7937
+Número de movimentações: 13382
+ 
+Método Shell ordenar: 
+Tempo de execução: 3 milissegundos
+Número de comparações: 7937
+Número de movimentações: 13382
+ 
+Método Shell ordenar: 
+Tempo de execução: 3 milissegundos
+Número de comparações: 7937
+Número de movimentações: 13382
+ 
+Método Shell ordenar: 
+Tempo de execução: 3 milissegundos
+Número de comparações: 7937
+Número de movimentações: 13382
+ 
+Método ShellSort ordenado: 
+Tempo de execução: 4 milissegundos
+Número de comparações: 7949
+Número de movimentações: 18839
+
+Método ShellSort ordenado: 
+Tempo de execução: 4 milissegundos
+Número de comparações: 7949
+Número de movimentações: 18839
+
+Método ShellSort ordenado: 
+Tempo de execução: 4 milissegundos
+Número de comparações: 7949
+Número de movimentações: 18839
+
+Método ShellSort ordenado: 
+Tempo de execução: 4 milissegundos
+Número de comparações: 7949
+Número de movimentações: 18839
+
+Método ShellSort ordenado: 
+Tempo de execução: 4 milissegundos
+Número de comparações: 7949
+Número de movimentações: 18839
+
+Método ShellSort ordenado: 
+Tempo de execução: 4 milissegundos
+Número de comparações: 7949
+Número de movimentações: 18839
+
+Método ShellSort ordenado: 
+Tempo de execução: 4 milissegundos
+Número de comparações: 7949
+Número de movimentações: 18839
+
+Método ShellSort ordenado: 
+Tempo de execução: 4 milissegundos
+Número de comparações: 7949
+Número de movimentações: 18839
+
+Método ShellSort ordenado: 
+Tempo de execução: 4 milissegundos
+Número de comparações: 7949
+Número de movimentações: 18839
+
+Método ShellSort ordenado: 
+Tempo de execução: 4 milissegundos
+Número de comparações: 7949
+Número de movimentações: 18839
+
+Método ShellSort inversamente ordenado: 
+Tempo de execução: 5 milissegundos
+Número de comparações: 7936
+Número de movimentações: 13381
+
+Método ShellSort inversamente ordenado: 
+Tempo de execução: 5 milissegundos
+Número de comparações: 7936
+Número de movimentações: 13381
+
+Método ShellSort inversamente ordenado: 
+Tempo de execução: 5 milissegundos
+Número de comparações: 7936
+Número de movimentações: 13381
+
+Método ShellSort inversamente ordenado: 
+Tempo de execução: 6 milissegundos
+Número de comparações: 7936
+Número de movimentações: 13381
+
+Método ShellSort inversamente ordenado: 
+Tempo de execução: 6 milissegundos
+Número de comparações: 7936
+Número de movimentações: 13381
+
+Método ShellSort inversamente ordenado: 
+Tempo de execução: 6 milissegundos
+Número de comparações: 7936
+Número de movimentações: 13381
+
+Método ShellSort inversamente ordenado: 
+Tempo de execução: 7 milissegundos
+Número de comparações: 7936
+Número de movimentações: 13381
+
+Método ShellSort inversamente ordenado: 
+Tempo de execução: 7 milissegundos
+Número de comparações: 7936
+Número de movimentações: 13381
+
+Método ShellSort inversamente ordenado: 
+Tempo de execução: 7 milissegundos
+Número de comparações: 7936
+Número de movimentações: 13381
+
+Método ShellSort inversamente ordenado: 
+Tempo de execução: 7 milissegundos
+Número de comparações: 7936
+Número de movimentações: 13381
+
+Método MergeSort ordenar: 
+Tempo de execução: 0 milissegundos
+Número de comparações: 15425
+Número de movimentações: 9976
+
+Método MergeSort ordenar: 
+Tempo de execução: 1 milissegundos
+Número de comparações: 15425
+Número de movimentações: 9976
+
+Método MergeSort ordenar: 
+Tempo de execução: 1 milissegundos
+Número de comparações: 15425
+Número de movimentações: 9976
+
+Método MergeSort ordenar: 
+Tempo de execução: 2 milissegundos
+Número de comparações: 15425
+Número de movimentações: 9976
+
+Método MergeSort ordenar: 
+Tempo de execução: 2 milissegundos
+Número de comparações: 15425
+Número de movimentações: 9976
+
+Método MergeSort ordenar: 
+Tempo de execução: 2 milissegundos
+Número de comparações: 15425
+Número de movimentações: 9976
+
+Método MergeSort ordenar: 
+Tempo de execução: 3 milissegundos
+Número de comparações: 15425
+Número de movimentações: 9976
+
+Método MergeSort ordenar: 
+Tempo de execução: 3 milissegundos
+Número de comparações: 15425
+Número de movimentações: 9976
+
+Método MergeSort ordenar: 
+Tempo de execução: 4 milissegundos
+Número de comparações: 15425
+Número de movimentações: 9976
+
+Método MergeSort ordenar: 
+Tempo de execução: 4 milissegundos
+Número de comparações: 15425
+Número de movimentações: 9976
+
+Método MergeSort ordenado: 
+Tempo de execução: 5 milissegundos
+Número de comparações: 31444
+Número de movimentações: 19952
+
+Método MergeSort ordenado: 
+Tempo de execução: 5 milissegundos
+Número de comparações: 31444
+Número de movimentações: 19952
+
+Método MergeSort ordenado: 
+Tempo de execução: 5 milissegundos
+Número de comparações: 31444
+Número de movimentações: 19952
+
+Método MergeSort ordenado: 
+Tempo de execução: 6 milissegundos
+Número de comparações: 31444
+Número de movimentações: 19952
+
+Método MergeSort ordenado: 
+Tempo de execução: 6 milissegundos
+Número de comparações: 31444
+Número de movimentações: 19952
+
+Método MergeSort ordenado: 
+Tempo de execução: 6 milissegundos
+Número de comparações: 31444
+Número de movimentações: 19952
+
+Método MergeSort ordenado: 
+Tempo de execução: 6 milissegundos
+Número de comparações: 31444
+Número de movimentações: 19952
+
+Método MergeSort ordenado: 
+Tempo de execução: 7 milissegundos
+Número de comparações: 31444
+Número de movimentações: 19952
+
+Método MergeSort ordenado: 
+Tempo de execução: 7 milissegundos
+Número de comparações: 31444
+Número de movimentações: 19952
+
+Método MergeSort ordenado: 
+Tempo de execução: 7 milissegundos
+Número de comparações: 31444
+Número de movimentações: 19952
+
+Método MergeSort inversamente ordenado: 
+Tempo de execução: 8 milissegundos
+Número de comparações: 15367
+Número de movimentações: 9976
+
+Método MergeSort inversamente ordenado: 
+Tempo de execução: 9 milissegundos
+Número de comparações: 15367
+Número de movimentações: 9976
+
+Método MergeSort inversamente ordenado: 
+Tempo de execução: 9 milissegundos
+Número de comparações: 15367
+Número de movimentações: 9976
+
+Método MergeSort inversamente ordenado: 
+Tempo de execução: 9 milissegundos
+Número de comparações: 15367
+Número de movimentações: 9976
+
+Método MergeSort inversamente ordenado: 
+Tempo de execução: 10 milissegundos
+Número de comparações: 15367
+Número de movimentações: 9976
+
+Método MergeSort inversamente ordenado: 
+Tempo de execução: 10 milissegundos
+Número de comparações: 15367
+Número de movimentações: 9976
+
+Método MergeSort inversamente ordenado: 
+Tempo de execução: 10 milissegundos
+Número de comparações: 15367
+Número de movimentações: 9976
+
+Método MergeSort inversamente ordenado: 
+Tempo de execução: 11 milissegundos
+Número de comparações: 15367
+Número de movimentações: 9976
+
+Método MergeSort inversamente ordenado: 
+Tempo de execução: 11 milissegundos
+Número de comparações: 15367
+Número de movimentações: 9976
+
+Método MergeSort inversamente ordenado: 
+Tempo de execução: 11 milissegundos
+Número de comparações: 15367
+Número de movimentações: 9976
+
+Método QuickSort ordenar: 
+Tempo de execução: 0 milissegundos
+Número de comparações: 13240
+Número de movimentações: 2706
+
+Método QuickSort ordenar: 
+Tempo de execução: 0 milissegundos
+Número de comparações: 13240
+Número de movimentações: 2706
+
+Método QuickSort ordenar: 
+Tempo de execução: 1 milissegundos
+Número de comparações: 13240
+Número de movimentações: 2706
+
+Método QuickSort ordenar: 
+Tempo de execução: 1 milissegundos
+Número de comparações: 13240
+Número de movimentações: 2706
+
+Método QuickSort ordenar: 
+Tempo de execução: 1 milissegundos
+Número de comparações: 13240
+Número de movimentações: 2706
+
+Método QuickSort ordenar: 
+Tempo de execução: 1 milissegundos
+Número de comparações: 13240
+Número de movimentações: 2706
+
+Método QuickSort ordenar: 
+Tempo de execução: 1 milissegundos
+Número de comparações: 13240
+Número de movimentações: 2706
+
+Método QuickSort ordenar: 
+Tempo de execução: 2 milissegundos
+Número de comparações: 13240
+Número de movimentações: 2706
+
+Método QuickSort ordenar: 
+Tempo de execução: 2 milissegundos
+Número de comparações: 13240
+Número de movimentações: 2706
+
+Método QuickSort ordenar: 
+Tempo de execução: 2 milissegundos
+Número de comparações: 13240
+Número de movimentações: 2706
+
+Método QuickSort ordenado: 
+Tempo de execução: 2 milissegundos
+Número de comparações: 17842
+Número de movimentações: 3504
+
+Método QuickSort ordenado: 
+Tempo de execução: 3 milissegundos
+Número de comparações: 17842
+Número de movimentações: 3504
+
+Método QuickSort ordenado: 
+Tempo de execução: 3 milissegundos
+Número de comparações: 17842
+Número de movimentações: 3504
+
+Método QuickSort ordenado: 
+Tempo de execução: 3 milissegundos
+Número de comparações: 17842
+Número de movimentações: 3504
+
+Método QuickSort ordenado: 
+Tempo de execução: 3 milissegundos
+Número de comparações: 17842
+Número de movimentações: 3504
+
+Método QuickSort ordenado: 
+Tempo de execução: 3 milissegundos
+Número de comparações: 17842
+Número de movimentações: 3504
+
+Método QuickSort ordenado: 
+Tempo de execução: 3 milissegundos
+Número de comparações: 17842
+Número de movimentações: 3504
+
+Método QuickSort ordenado: 
+Tempo de execução: 3 milissegundos
+Número de comparações: 17842
+Número de movimentações: 3504
+
+Método QuickSort ordenado: 
+Tempo de execução: 3 milissegundos
+Número de comparações: 17842
+Número de movimentações: 3504
+
+Método QuickSort ordenado: 
+Tempo de execução: 3 milissegundos
+Número de comparações: 17842
+Número de movimentações: 3504
+
+Método QuickSort inversamente ordenado: 
+Tempo de execução: 4 milissegundos
+Número de comparações: 13240
+Número de movimentações: 2706
+
+Método QuickSort inversamente ordenado: 
+Tempo de execução: 4 milissegundos
+Número de comparações: 13240
+Número de movimentações: 2706
+
+Método QuickSort inversamente ordenado: 
+Tempo de execução: 5 milissegundos
+Número de comparações: 13240
+Número de movimentações: 2706
+
+Método QuickSort inversamente ordenado: 
+Tempo de execução: 5 milissegundos
+Número de comparações: 13240
+Número de movimentações: 2706
+
+Método QuickSort inversamente ordenado: 
+Tempo de execução: 5 milissegundos
+Número de comparações: 13240
+Número de movimentações: 2706
+
+Método QuickSort inversamente ordenado: 
+Tempo de execução: 5 milissegundos
+Número de comparações: 13240
+Número de movimentações: 2706
+
+Método QuickSort inversamente ordenado: 
+Tempo de execução: 5 milissegundos
+Número de comparações: 13240
+Número de movimentações: 2706
+
+Método QuickSort inversamente ordenado: 
+Tempo de execução: 6 milissegundos
+Número de comparações: 13240
+Número de movimentações: 2706
+
+Método QuickSort inversamente ordenado: 
+Tempo de execução: 6 milissegundos
+Número de comparações: 13240
+Número de movimentações: 2706
+
+Método QuickSort inversamente ordenado: 
+Tempo de execução: 6 milissegundos
+Número de comparações: 13240
+Número de movimentações: 2706
+
+=================================================
+Vetor de tamanho: 1000
+Média do tempo de execução da ShellSort: 3
+Média das comparações da ShellSort: 7940
+Média das movimentações da ShellSort: 15200
+=================================================
+=================================================
+Vetor de tamanho: 1000
+Média do tempo de execução da MergeSort: 6
+Média das comparações da MergeSort: 20745
+Média das movimentações da MergeSort: 13301
+=================================================
+=================================================
+Vetor de tamanho: 1000
+Média do tempo de execução da QuickSort: 3
+Média das comparações da QuickSort: 14774
+Média das movimentações da QuickSort: 2972
+=================================================
+Método Shell ordenar: 
+Tempo de execução: 4 milissegundos
+Número de comparações: 170226
+Número de movimentações: 245451
+ 
+Método Shell ordenar: 
+Tempo de execução: 8 milissegundos
+Número de comparações: 170226
+Número de movimentações: 245451
+ 
+Método Shell ordenar: 
+Tempo de execução: 12 milissegundos
+Número de comparações: 170226
+Número de movimentações: 245451
+ 
+Método Shell ordenar: 
+Tempo de execução: 15 milissegundos
+Número de comparações: 170226
+Número de movimentações: 245451
+ 
+Método Shell ordenar: 
+Tempo de execução: 18 milissegundos
+Número de comparações: 170226
+Número de movimentações: 245451
+ 
+Método Shell ordenar: 
+Tempo de execução: 22 milissegundos
+Número de comparações: 170226
+Número de movimentações: 245451
+ 
+Método Shell ordenar: 
+Tempo de execução: 25 milissegundos
+Número de comparações: 170226
+Número de movimentações: 245451
+ 
+Método Shell ordenar: 
+Tempo de execução: 28 milissegundos
+Número de comparações: 170226
+Número de movimentações: 245451
+ 
+Método Shell ordenar: 
+Tempo de execução: 31 milissegundos
+Número de comparações: 170226
+Número de movimentações: 245451
+ 
+Método Shell ordenar: 
+Tempo de execução: 35 milissegundos
+Número de comparações: 170226
+Número de movimentações: 245451
+ 
+Método ShellSort ordenado: 
+Tempo de execução: 35 milissegundos
+Número de comparações: 170244
+Número de movimentações: 320694
+
+Método ShellSort ordenado: 
+Tempo de execução: 36 milissegundos
+Número de comparações: 170244
+Número de movimentações: 320694
+
+Método ShellSort ordenado: 
+Tempo de execução: 37 milissegundos
+Número de comparações: 170244
+Número de movimentações: 320694
+
+Método ShellSort ordenado: 
+Tempo de execução: 38 milissegundos
+Número de comparações: 170244
+Número de movimentações: 320694
+
+Método ShellSort ordenado: 
+Tempo de execução: 39 milissegundos
+Número de comparações: 170244
+Número de movimentações: 320694
+
+Método ShellSort ordenado: 
+Tempo de execução: 39 milissegundos
+Número de comparações: 170244
+Número de movimentações: 320694
+
+Método ShellSort ordenado: 
+Tempo de execução: 40 milissegundos
+Número de comparações: 170244
+Número de movimentações: 320694
+
+Método ShellSort ordenado: 
+Tempo de execução: 41 milissegundos
+Número de comparações: 170244
+Número de movimentações: 320694
+
+Método ShellSort ordenado: 
+Tempo de execução: 41 milissegundos
+Número de comparações: 170244
+Número de movimentações: 320694
+
+Método ShellSort ordenado: 
+Tempo de execução: 42 milissegundos
+Número de comparações: 170244
+Número de movimentações: 320694
+
+Método ShellSort inversamente ordenado: 
+Tempo de execução: 46 milissegundos
+Número de comparações: 164836
+Número de movimentações: 240061
+
+Método ShellSort inversamente ordenado: 
+Tempo de execução: 49 milissegundos
+Número de comparações: 164836
+Número de movimentações: 240061
+
+Método ShellSort inversamente ordenado: 
+Tempo de execução: 52 milissegundos
+Número de comparações: 164836
+Número de movimentações: 240061
+
+Método ShellSort inversamente ordenado: 
+Tempo de execução: 55 milissegundos
+Número de comparações: 164836
+Número de movimentações: 240061
+
+Método ShellSort inversamente ordenado: 
+Tempo de execução: 58 milissegundos
+Número de comparações: 164836
+Número de movimentações: 240061
+
+Método ShellSort inversamente ordenado: 
+Tempo de execução: 61 milissegundos
+Número de comparações: 164836
+Número de movimentações: 240061
+
+Método ShellSort inversamente ordenado: 
+Tempo de execução: 64 milissegundos
+Número de comparações: 164836
+Número de movimentações: 240061
+
+Método ShellSort inversamente ordenado: 
+Tempo de execução: 67 milissegundos
+Número de comparações: 164836
+Número de movimentações: 240061
+
+Método ShellSort inversamente ordenado: 
+Tempo de execução: 70 milissegundos
+Número de comparações: 164836
+Número de movimentações: 240061
+
+Método ShellSort inversamente ordenado: 
+Tempo de execução: 73 milissegundos
+Número de comparações: 164836
+Número de movimentações: 240061
+
+Método MergeSort ordenar: 
+Tempo de execução: 3 milissegundos
+Número de comparações: 204939
+Número de movimentações: 133616
+
+Método MergeSort ordenar: 
+Tempo de execução: 6 milissegundos
+Número de comparações: 204939
+Número de movimentações: 133616
+
+Método MergeSort ordenar: 
+Tempo de execução: 9 milissegundos
+Número de comparações: 204939
+Número de movimentações: 133616
+
+Método MergeSort ordenar: 
+Tempo de execução: 12 milissegundos
+Número de comparações: 204939
+Número de movimentações: 133616
+
+Método MergeSort ordenar: 
+Tempo de execução: 15 milissegundos
+Número de comparações: 204939
+Número de movimentações: 133616
+
+Método MergeSort ordenar: 
+Tempo de execução: 18 milissegundos
+Número de comparações: 204939
+Número de movimentações: 133616
+
+Método MergeSort ordenar: 
+Tempo de execução: 21 milissegundos
+Número de comparações: 204939
+Número de movimentações: 133616
+
+Método MergeSort ordenar: 
+Tempo de execução: 23 milissegundos
+Número de comparações: 204939
+Número de movimentações: 133616
+
+Método MergeSort ordenar: 
+Tempo de execução: 26 milissegundos
+Número de comparações: 204939
+Número de movimentações: 133616
+
+Método MergeSort ordenar: 
+Tempo de execução: 29 milissegundos
+Número de comparações: 204939
+Número de movimentações: 133616
+
+Método MergeSort ordenado: 
+Tempo de execução: 32 milissegundos
+Número de comparações: 417562
+Número de movimentações: 267232
+
+Método MergeSort ordenado: 
+Tempo de execução: 34 milissegundos
+Número de comparações: 417562
+Número de movimentações: 267232
+
+Método MergeSort ordenado: 
+Tempo de execução: 36 milissegundos
+Número de comparações: 417562
+Número de movimentações: 267232
+
+Método MergeSort ordenado: 
+Tempo de execução: 38 milissegundos
+Número de comparações: 417562
+Número de movimentações: 267232
+
+Método MergeSort ordenado: 
+Tempo de execução: 40 milissegundos
+Número de comparações: 417562
+Número de movimentações: 267232
+
+Método MergeSort ordenado: 
+Tempo de execução: 42 milissegundos
+Número de comparações: 417562
+Número de movimentações: 267232
+
+Método MergeSort ordenado: 
+Tempo de execução: 44 milissegundos
+Número de comparações: 417562
+Número de movimentações: 267232
+
+Método MergeSort ordenado: 
+Tempo de execução: 46 milissegundos
+Número de comparações: 417562
+Número de movimentações: 267232
+
+Método MergeSort ordenado: 
+Tempo de execução: 49 milissegundos
+Número de comparações: 417562
+Número de movimentações: 267232
+
+Método MergeSort ordenado: 
+Tempo de execução: 51 milissegundos
+Número de comparações: 417562
+Número de movimentações: 267232
+
+Método MergeSort inversamente ordenado: 
+Tempo de execução: 54 milissegundos
+Número de comparações: 204800
+Número de movimentações: 133616
+
+Método MergeSort inversamente ordenado: 
+Tempo de execução: 58 milissegundos
+Número de comparações: 204800
+Número de movimentações: 133616
+
+Método MergeSort inversamente ordenado: 
+Tempo de execução: 63 milissegundos
+Número de comparações: 204800
+Número de movimentações: 133616
+
+Método MergeSort inversamente ordenado: 
+Tempo de execução: 69 milissegundos
+Número de comparações: 204800
+Número de movimentações: 133616
+
+Método MergeSort inversamente ordenado: 
+Tempo de execução: 75 milissegundos
+Número de comparações: 204800
+Número de movimentações: 133616
+
+Método MergeSort inversamente ordenado: 
+Tempo de execução: 78 milissegundos
+Número de comparações: 204800
+Número de movimentações: 133616
+
+Método MergeSort inversamente ordenado: 
+Tempo de execução: 82 milissegundos
+Número de comparações: 204800
+Número de movimentações: 133616
+
+Método MergeSort inversamente ordenado: 
+Tempo de execução: 86 milissegundos
+Número de comparações: 204800
+Número de movimentações: 133616
+
+Método MergeSort inversamente ordenado: 
+Tempo de execução: 89 milissegundos
+Número de comparações: 204800
+Número de movimentações: 133616
+
+Método MergeSort inversamente ordenado: 
+Tempo de execução: 93 milissegundos
+Número de comparações: 204800
+Número de movimentações: 133616
+
+Método QuickSort ordenar: 
+Tempo de execução: 3 milissegundos
+Número de comparações: 162980
+Número de movimentações: 34633
+
+Método QuickSort ordenar: 
+Tempo de execução: 5 milissegundos
+Número de comparações: 162980
+Número de movimentações: 34633
+
+Método QuickSort ordenar: 
+Tempo de execução: 8 milissegundos
+Número de comparações: 162980
+Número de movimentações: 34633
+
+Método QuickSort ordenar: 
+Tempo de execução: 10 milissegundos
+Número de comparações: 162980
+Número de movimentações: 34633
+
+Método QuickSort ordenar: 
+Tempo de execução: 13 milissegundos
+Número de comparações: 162980
+Número de movimentações: 34633
+
+Método QuickSort ordenar: 
+Tempo de execução: 15 milissegundos
+Número de comparações: 162980
+Número de movimentações: 34633
+
+Método QuickSort ordenar: 
+Tempo de execução: 18 milissegundos
+Número de comparações: 162980
+Número de movimentações: 34633
+
+Método QuickSort ordenar: 
+Tempo de execução: 20 milissegundos
+Número de comparações: 162980
+Número de movimentações: 34633
+
+Método QuickSort ordenar: 
+Tempo de execução: 22 milissegundos
+Número de comparações: 162980
+Número de movimentações: 34633
+
+Método QuickSort ordenar: 
+Tempo de execução: 25 milissegundos
+Número de comparações: 162980
+Número de movimentações: 34633
+
+Método QuickSort ordenado: 
+Tempo de execução: 26 milissegundos
+Número de comparações: 210194
+Número de movimentações: 42776
+
+Método QuickSort ordenado: 
+Tempo de execução: 26 milissegundos
+Número de comparações: 210194
+Número de movimentações: 42776
+
+Método QuickSort ordenado: 
+Tempo de execução: 27 milissegundos
+Número de comparações: 210194
+Número de movimentações: 42776
+
+Método QuickSort ordenado: 
+Tempo de execução: 28 milissegundos
+Número de comparações: 210194
+Número de movimentações: 42776
+
+Método QuickSort ordenado: 
+Tempo de execução: 29 milissegundos
+Número de comparações: 210194
+Número de movimentações: 42776
+
+Método QuickSort ordenado: 
+Tempo de execução: 30 milissegundos
+Número de comparações: 210194
+Número de movimentações: 42776
+
+Método QuickSort ordenado: 
+Tempo de execução: 30 milissegundos
+Número de comparações: 210194
+Número de movimentações: 42776
+
+Método QuickSort ordenado: 
+Tempo de execução: 31 milissegundos
+Número de comparações: 210194
+Número de movimentações: 42776
+
+Método QuickSort ordenado: 
+Tempo de execução: 31 milissegundos
+Número de comparações: 210194
+Número de movimentações: 42776
+
+Método QuickSort ordenado: 
+Tempo de execução: 32 milissegundos
+Número de comparações: 210194
+Número de movimentações: 42776
+
+Método QuickSort inversamente ordenado: 
+Tempo de execução: 34 milissegundos
+Número de comparações: 162980
+Número de movimentações: 34633
+
+Método QuickSort inversamente ordenado: 
+Tempo de execução: 36 milissegundos
+Número de comparações: 162980
+Número de movimentações: 34633
+
+Método QuickSort inversamente ordenado: 
+Tempo de execução: 38 milissegundos
+Número de comparações: 162980
+Número de movimentações: 34633
+
+Método QuickSort inversamente ordenado: 
+Tempo de execução: 40 milissegundos
+Número de comparações: 162980
+Número de movimentações: 34633
+
+Método QuickSort inversamente ordenado: 
+Tempo de execução: 41 milissegundos
+Número de comparações: 162980
+Número de movimentações: 34633
+
+Método QuickSort inversamente ordenado: 
+Tempo de execução: 43 milissegundos
+Número de comparações: 162980
+Número de movimentações: 34633
+
+Método QuickSort inversamente ordenado: 
+Tempo de execução: 45 milissegundos
+Número de comparações: 162980
+Número de movimentações: 34633
+
+Método QuickSort inversamente ordenado: 
+Tempo de execução: 47 milissegundos
+Número de comparações: 162980
+Número de movimentações: 34633
+
+Método QuickSort inversamente ordenado: 
+Tempo de execução: 49 milissegundos
+Número de comparações: 162980
+Número de movimentações: 34633
+
+Método QuickSort inversamente ordenado: 
+Tempo de execução: 51 milissegundos
+Número de comparações: 162980
+Número de movimentações: 34633
+
+=================================================
+Vetor de tamanho: 10000
+Média do tempo de execução da ShellSort: 39
+Média das comparações da ShellSort: 168435
+Média das movimentações da ShellSort: 268735
+=================================================
+=================================================
+Vetor de tamanho: 10000
+Média do tempo de execução da MergeSort: 44
+Média das comparações da MergeSort: 275767
+Média das movimentações da MergeSort: 178154
+=================================================
+=================================================
+Vetor de tamanho: 10000
+Média do tempo de execução da QuickSort: 28
+Média das comparações da QuickSort: 178718
+Média das movimentações da QuickSort: 37347
+=================================================
+Método Shell ordenar: 
+Tempo de execução: 56 milissegundos
+Número de comparações: 2788380
+Número de movimentações: 3755504
+ 
+Método Shell ordenar: 
+Tempo de execução: 106 milissegundos
+Número de comparações: 2788380
+Número de movimentações: 3755504
+ 
+Método Shell ordenar: 
+Tempo de execução: 153 milissegundos
+Número de comparações: 2788380
+Número de movimentações: 3755504
+ 
+Método Shell ordenar: 
+Tempo de execução: 201 milissegundos
+Número de comparações: 2788380
+Número de movimentações: 3755504
+ 
+Método Shell ordenar: 
+Tempo de execução: 247 milissegundos
+Número de comparações: 2788380
+Número de movimentações: 3755504
+ 
+Método Shell ordenar: 
+Tempo de execução: 295 milissegundos
+Número de comparações: 2788380
+Número de movimentações: 3755504
+ 
+Método Shell ordenar: 
+Tempo de execução: 344 milissegundos
+Número de comparações: 2788380
+Número de movimentações: 3755504
+ 
+Método Shell ordenar: 
+Tempo de execução: 392 milissegundos
+Número de comparações: 2788380
+Número de movimentações: 3755504
+ 
+Método Shell ordenar: 
+Tempo de execução: 440 milissegundos
+Número de comparações: 2788380
+Número de movimentações: 3755504
+ 
+Método Shell ordenar: 
+Tempo de execução: 488 milissegundos
+Número de comparações: 2788380
+Número de movimentações: 3755504
+ 
+Método ShellSort ordenado: 
+Tempo de execução: 498 milissegundos
+Número de comparações: 2788402
+Número de movimentações: 4722650
+
+Método ShellSort ordenado: 
+Tempo de execução: 508 milissegundos
+Número de comparações: 2788402
+Número de movimentações: 4722650
+
+Método ShellSort ordenado: 
+Tempo de execução: 517 milissegundos
+Número de comparações: 2788402
+Número de movimentações: 4722650
+
+Método ShellSort ordenado: 
+Tempo de execução: 525 milissegundos
+Número de comparações: 2788402
+Número de movimentações: 4722650
+
+Método ShellSort ordenado: 
+Tempo de execução: 537 milissegundos
+Número de comparações: 2788402
+Número de movimentações: 4722650
+
+Método ShellSort ordenado: 
+Tempo de execução: 551 milissegundos
+Número de comparações: 2788402
+Número de movimentações: 4722650
+
+Método ShellSort ordenado: 
+Tempo de execução: 568 milissegundos
+Número de comparações: 2788402
+Número de movimentações: 4722650
+
+Método ShellSort ordenado: 
+Tempo de execução: 577 milissegundos
+Número de comparações: 2788402
+Número de movimentações: 4722650
+
+Método ShellSort ordenado: 
+Tempo de execução: 586 milissegundos
+Número de comparações: 2788402
+Número de movimentações: 4722650
+
+Método ShellSort ordenado: 
+Tempo de execução: 597 milissegundos
+Número de comparações: 2788402
+Número de movimentações: 4722650
+
+Método ShellSort inversamente ordenado: 
+Tempo de execução: 656 milissegundos
+Número de comparações: 2819334
+Número de movimentações: 3786458
+
+Método ShellSort inversamente ordenado: 
+Tempo de execução: 712 milissegundos
+Número de comparações: 2819334
+Número de movimentações: 3786458
+
+Método ShellSort inversamente ordenado: 
+Tempo de execução: 761 milissegundos
+Número de comparações: 2819334
+Número de movimentações: 3786458
+
+Método ShellSort inversamente ordenado: 
+Tempo de execução: 813 milissegundos
+Número de comparações: 2819334
+Número de movimentações: 3786458
+
+Método ShellSort inversamente ordenado: 
+Tempo de execução: 888 milissegundos
+Número de comparações: 2819334
+Número de movimentações: 3786458
+
+Método ShellSort inversamente ordenado: 
+Tempo de execução: 970 milissegundos
+Número de comparações: 2819334
+Número de movimentações: 3786458
+
+Método ShellSort inversamente ordenado: 
+Tempo de execução: 1031 milissegundos
+Número de comparações: 2819334
+Número de movimentações: 3786458
+
+Método ShellSort inversamente ordenado: 
+Tempo de execução: 1084 milissegundos
+Número de comparações: 2819334
+Número de movimentações: 3786458
+
+Método ShellSort inversamente ordenado: 
+Tempo de execução: 1147 milissegundos
+Número de comparações: 2819334
+Número de movimentações: 3786458
+
+Método ShellSort inversamente ordenado: 
+Tempo de execução: 1226 milissegundos
+Número de comparações: 2819334
+Número de movimentações: 3786458
+
+Método MergeSort ordenar: 
+Tempo de execução: 46 milissegundos
+Número de comparações: 2545631
+Número de movimentações: 1668928
+
+Método MergeSort ordenar: 
+Tempo de execução: 89 milissegundos
+Número de comparações: 2545631
+Número de movimentações: 1668928
+
+Método MergeSort ordenar: 
+Tempo de execução: 132 milissegundos
+Número de comparações: 2545631
+Número de movimentações: 1668928
+
+Método MergeSort ordenar: 
+Tempo de execução: 175 milissegundos
+Número de comparações: 2545631
+Número de movimentações: 1668928
+
+Método MergeSort ordenar: 
+Tempo de execução: 215 milissegundos
+Número de comparações: 2545631
+Número de movimentações: 1668928
+
+Método MergeSort ordenar: 
+Tempo de execução: 256 milissegundos
+Número de comparações: 2545631
+Número de movimentações: 1668928
+
+Método MergeSort ordenar: 
+Tempo de execução: 306 milissegundos
+Número de comparações: 2545631
+Número de movimentações: 1668928
+
+Método MergeSort ordenar: 
+Tempo de execução: 360 milissegundos
+Número de comparações: 2545631
+Número de movimentações: 1668928
+
+Método MergeSort ordenar: 
+Tempo de execução: 405 milissegundos
+Número de comparações: 2545631
+Número de movimentações: 1668928
+
+Método MergeSort ordenar: 
+Tempo de execução: 438 milissegundos
+Número de comparações: 2545631
+Número de movimentações: 1668928
+
+Método MergeSort ordenado: 
+Tempo de execução: 457 milissegundos
+Número de comparações: 5168462
+Número de movimentações: 3337856
+
+Método MergeSort ordenado: 
+Tempo de execução: 474 milissegundos
+Número de comparações: 5168462
+Número de movimentações: 3337856
+
+Método MergeSort ordenado: 
+Tempo de execução: 492 milissegundos
+Número de comparações: 5168462
+Número de movimentações: 3337856
+
+Método MergeSort ordenado: 
+Tempo de execução: 510 milissegundos
+Número de comparações: 5168462
+Número de movimentações: 3337856
+
+Método MergeSort ordenado: 
+Tempo de execução: 530 milissegundos
+Número de comparações: 5168462
+Número de movimentações: 3337856
+
+Método MergeSort ordenado: 
+Tempo de execução: 551 milissegundos
+Número de comparações: 5168462
+Número de movimentações: 3337856
+
+Método MergeSort ordenado: 
+Tempo de execução: 572 milissegundos
+Número de comparações: 5168462
+Número de movimentações: 3337856
+
+Método MergeSort ordenado: 
+Tempo de execução: 590 milissegundos
+Número de comparações: 5168462
+Número de movimentações: 3337856
+
+Método MergeSort ordenado: 
+Tempo de execução: 607 milissegundos
+Número de comparações: 5168462
+Número de movimentações: 3337856
+
+Método MergeSort ordenado: 
+Tempo de execução: 625 milissegundos
+Número de comparações: 5168462
+Número de movimentações: 3337856
+
+Método MergeSort inversamente ordenado: 
+Tempo de execução: 656 milissegundos
+Número de comparações: 2545227
+Número de movimentações: 1668928
+
+Método MergeSort inversamente ordenado: 
+Tempo de execução: 687 milissegundos
+Número de comparações: 2545227
+Número de movimentações: 1668928
+
+Método MergeSort inversamente ordenado: 
+Tempo de execução: 735 milissegundos
+Número de comparações: 2545227
+Número de movimentações: 1668928
+
+Método MergeSort inversamente ordenado: 
+Tempo de execução: 775 milissegundos
+Número de comparações: 2545227
+Número de movimentações: 1668928
+
+Método MergeSort inversamente ordenado: 
+Tempo de execução: 808 milissegundos
+Número de comparações: 2545227
+Número de movimentações: 1668928
+
+Método MergeSort inversamente ordenado: 
+Tempo de execução: 842 milissegundos
+Número de comparações: 2545227
+Número de movimentações: 1668928
+
+Método MergeSort inversamente ordenado: 
+Tempo de execução: 873 milissegundos
+Número de comparações: 2545227
+Número de movimentações: 1668928
+
+Método MergeSort inversamente ordenado: 
+Tempo de execução: 908 milissegundos
+Número de comparações: 2545227
+Número de movimentações: 1668928
+
+Método MergeSort inversamente ordenado: 
+Tempo de execução: 953 milissegundos
+Número de comparações: 2545227
+Número de movimentações: 1668928
+
+Método MergeSort inversamente ordenado: 
+Tempo de execução: 990 milissegundos
+Número de comparações: 2545227
+Número de movimentações: 1668928
+
+Método QuickSort ordenar: 
+Tempo de execução: 20 milissegundos
+Número de comparações: 1919643
+Número de movimentações: 419344
+
+Método QuickSort ordenar: 
+Tempo de execução: 41 milissegundos
+Número de comparações: 1919643
+Número de movimentações: 419344
+
+Método QuickSort ordenar: 
+Tempo de execução: 60 milissegundos
+Número de comparações: 1919643
+Número de movimentações: 419344
+
+Método QuickSort ordenar: 
+Tempo de execução: 80 milissegundos
+Número de comparações: 1919643
+Número de movimentações: 419344
+
+Método QuickSort ordenar: 
+Tempo de execução: 99 milissegundos
+Número de comparações: 1919643
+Número de movimentações: 419344
+
+Método QuickSort ordenar: 
+Tempo de execução: 119 milissegundos
+Número de comparações: 1919643
+Número de movimentações: 419344
+
+Método QuickSort ordenar: 
+Tempo de execução: 137 milissegundos
+Número de comparações: 1919643
+Número de movimentações: 419344
+
+Método QuickSort ordenar: 
+Tempo de execução: 156 milissegundos
+Número de comparações: 1919643
+Número de movimentações: 419344
+
+Método QuickSort ordenar: 
+Tempo de execução: 176 milissegundos
+Número de comparações: 1919643
+Número de movimentações: 419344
+
+Método QuickSort ordenar: 
+Tempo de execução: 196 milissegundos
+Número de comparações: 1919643
+Número de movimentações: 419344
+
+Método QuickSort ordenado: 
+Tempo de execução: 202 milissegundos
+Número de comparações: 2387889
+Número de movimentações: 500191
+
+Método QuickSort ordenado: 
+Tempo de execução: 208 milissegundos
+Número de comparações: 2387889
+Número de movimentações: 500191
+
+Método QuickSort ordenado: 
+Tempo de execução: 214 milissegundos
+Número de comparações: 2387889
+Número de movimentações: 500191
+
+Método QuickSort ordenado: 
+Tempo de execução: 219 milissegundos
+Número de comparações: 2387889
+Número de movimentações: 500191
+
+Método QuickSort ordenado: 
+Tempo de execução: 225 milissegundos
+Número de comparações: 2387889
+Número de movimentações: 500191
+
+Método QuickSort ordenado: 
+Tempo de execução: 230 milissegundos
+Número de comparações: 2387889
+Número de movimentações: 500191
+
+Método QuickSort ordenado: 
+Tempo de execução: 236 milissegundos
+Número de comparações: 2387889
+Número de movimentações: 500191
+
+Método QuickSort ordenado: 
+Tempo de execução: 241 milissegundos
+Número de comparações: 2387889
+Número de movimentações: 500191
+
+Método QuickSort ordenado: 
+Tempo de execução: 247 milissegundos
+Número de comparações: 2387889
+Número de movimentações: 500191
+
+Método QuickSort ordenado: 
+Tempo de execução: 252 milissegundos
+Número de comparações: 2387889
+Número de movimentações: 500191
+
+Método QuickSort inversamente ordenado: 
+Tempo de execução: 271 milissegundos
+Número de comparações: 1919643
+Número de movimentações: 419344
+
+Método QuickSort inversamente ordenado: 
+Tempo de execução: 289 milissegundos
+Número de comparações: 1919643
+Número de movimentações: 419344
+
+Método QuickSort inversamente ordenado: 
+Tempo de execução: 307 milissegundos
+Número de comparações: 1919643
+Número de movimentações: 419344
+
+Método QuickSort inversamente ordenado: 
+Tempo de execução: 326 milissegundos
+Número de comparações: 1919643
+Número de movimentações: 419344
+
+Método QuickSort inversamente ordenado: 
+Tempo de execução: 345 milissegundos
+Número de comparações: 1919643
+Número de movimentações: 419344
+
+Método QuickSort inversamente ordenado: 
+Tempo de execução: 365 milissegundos
+Número de comparações: 1919643
+Número de movimentações: 419344
+
+Método QuickSort inversamente ordenado: 
+Tempo de execução: 385 milissegundos
+Número de comparações: 1919643
+Número de movimentações: 419344
+
+Método QuickSort inversamente ordenado: 
+Tempo de execução: 404 milissegundos
+Número de comparações: 1919643
+Número de movimentações: 419344
+
+Método QuickSort inversamente ordenado: 
+Tempo de execução: 422 milissegundos
+Número de comparações: 1919643
+Número de movimentações: 419344
+
+Método QuickSort inversamente ordenado: 
+Tempo de execução: 440 milissegundos
+Número de comparações: 1919643
+Número de movimentações: 419344
+
+=================================================
+Vetor de tamanho: 100000
+Média do tempo de execução da ShellSort: 582
+Média das comparações da ShellSort: 2798705
+Média das movimentações da ShellSort: 4088204
+=================================================
+=================================================
+Vetor de tamanho: 100000
+Média do tempo de execução da MergeSort: 535
+Média das comparações da MergeSort: 3419773
+Média das movimentações da MergeSort: 2225237
+=================================================
+=================================================
+Vetor de tamanho: 100000
+Média do tempo de execução da QuickSort: 230
+Média das comparações da QuickSort: 2075725
+Média das movimentações da QuickSort: 446293
+=================================================
+Método Shell ordenar: 
+Tempo de execução: 123 milissegundos
+Número de comparações: 6934637
+Número de movimentações: 9001761
+ 
+Método Shell ordenar: 
+Tempo de execução: 226 milissegundos
+Número de comparações: 6934637
+Número de movimentações: 9001761
+ 
+Método Shell ordenar: 
+Tempo de execução: 340 milissegundos
+Número de comparações: 6934637
+Número de movimentações: 9001761
+ 
+Método Shell ordenar: 
+Tempo de execução: 447 milissegundos
+Número de comparações: 6934637
+Número de movimentações: 9001761
+ 
+Método Shell ordenar: 
+Tempo de execução: 554 milissegundos
+Número de comparações: 6934637
+Número de movimentações: 9001761
+ 
+Método Shell ordenar: 
+Tempo de execução: 657 milissegundos
+Número de comparações: 6934637
+Número de movimentações: 9001761
+ 
+Método Shell ordenar: 
+Tempo de execução: 752 milissegundos
+Número de comparações: 6934637
+Número de movimentações: 9001761
+ 
+Método Shell ordenar: 
+Tempo de execução: 847 milissegundos
+Número de comparações: 6934637
+Número de movimentações: 9001761
+ 
+Método Shell ordenar: 
+Tempo de execução: 946 milissegundos
+Número de comparações: 6934637
+Número de movimentações: 9001761
+ 
+Método Shell ordenar: 
+Tempo de execução: 1044 milissegundos
+Número de comparações: 6934637
+Número de movimentações: 9001761
+ 
+Método ShellSort ordenado: 
+Tempo de execução: 1063 milissegundos
+Número de comparações: 6934659
+Número de movimentações: 11068907
+
+Método ShellSort ordenado: 
+Tempo de execução: 1081 milissegundos
+Número de comparações: 6934659
+Número de movimentações: 11068907
+
+Método ShellSort ordenado: 
+Tempo de execução: 1100 milissegundos
+Número de comparações: 6934659
+Número de movimentações: 11068907
+
+Método ShellSort ordenado: 
+Tempo de execução: 1119 milissegundos
+Número de comparações: 6934659
+Número de movimentações: 11068907
+
+Método ShellSort ordenado: 
+Tempo de execução: 1138 milissegundos
+Número de comparações: 6934659
+Número de movimentações: 11068907
+
+Método ShellSort ordenado: 
+Tempo de execução: 1157 milissegundos
+Número de comparações: 6934659
+Número de movimentações: 11068907
+
+Método ShellSort ordenado: 
+Tempo de execução: 1177 milissegundos
+Número de comparações: 6934659
+Número de movimentações: 11068907
+
+Método ShellSort ordenado: 
+Tempo de execução: 1195 milissegundos
+Número de comparações: 6934659
+Número de movimentações: 11068907
+
+Método ShellSort ordenado: 
+Tempo de execução: 1213 milissegundos
+Número de comparações: 6934659
+Número de movimentações: 11068907
+
+Método ShellSort ordenado: 
+Tempo de execução: 1238 milissegundos
+Número de comparações: 6934659
+Número de movimentações: 11068907
+
+Método ShellSort inversamente ordenado: 
+Tempo de execução: 1351 milissegundos
+Número de comparações: 7049351
+Número de movimentações: 9116475
+
+Método ShellSort inversamente ordenado: 
+Tempo de execução: 1439 milissegundos
+Número de comparações: 7049351
+Número de movimentações: 9116475
+
+Método ShellSort inversamente ordenado: 
+Tempo de execução: 1567 milissegundos
+Número de comparações: 7049351
+Número de movimentações: 9116475
+
+Método ShellSort inversamente ordenado: 
+Tempo de execução: 1691 milissegundos
+Número de comparações: 7049351
+Número de movimentações: 9116475
+
+Método ShellSort inversamente ordenado: 
+Tempo de execução: 1785 milissegundos
+Número de comparações: 7049351
+Número de movimentações: 9116475
+
+Método ShellSort inversamente ordenado: 
+Tempo de execução: 1874 milissegundos
+Número de comparações: 7049351
+Número de movimentações: 9116475
+
+Método ShellSort inversamente ordenado: 
+Tempo de execução: 1962 milissegundos
+Número de comparações: 7049351
+Número de movimentações: 9116475
+
+Método ShellSort inversamente ordenado: 
+Tempo de execução: 2050 milissegundos
+Número de comparações: 7049351
+Número de movimentações: 9116475
+
+Método ShellSort inversamente ordenado: 
+Tempo de execução: 2135 milissegundos
+Número de comparações: 7049351
+Número de movimentações: 9116475
+
+Método ShellSort inversamente ordenado: 
+Tempo de execução: 2227 milissegundos
+Número de comparações: 7049351
+Número de movimentações: 9116475
+
+Método MergeSort ordenar: 
+Tempo de execução: 78 milissegundos
+Número de comparações: 5391252
+Número de movimentações: 3537856
+
+Método MergeSort ordenar: 
+Tempo de execução: 185 milissegundos
+Número de comparações: 5391252
+Número de movimentações: 3537856
+
+Método MergeSort ordenar: 
+Tempo de execução: 306 milissegundos
+Número de comparações: 5391252
+Número de movimentações: 3537856
+
+Método MergeSort ordenar: 
+Tempo de execução: 374 milissegundos
+Número de comparações: 5391252
+Número de movimentações: 3537856
+
+Método MergeSort ordenar: 
+Tempo de execução: 458 milissegundos
+Número de comparações: 5391252
+Número de movimentações: 3537856
+
+Método MergeSort ordenar: 
+Tempo de execução: 527 milissegundos
+Número de comparações: 5391252
+Número de movimentações: 3537856
+
+Método MergeSort ordenar: 
+Tempo de execução: 594 milissegundos
+Número de comparações: 5391252
+Número de movimentações: 3537856
+
+Método MergeSort ordenar: 
+Tempo de execução: 660 milissegundos
+Número de comparações: 5391252
+Número de movimentações: 3537856
+
+Método MergeSort ordenar: 
+Tempo de execução: 758 milissegundos
+Número de comparações: 5391252
+Número de movimentações: 3537856
+
+Método MergeSort ordenar: 
+Tempo de execução: 880 milissegundos
+Número de comparações: 5391252
+Número de movimentações: 3537856
+
+Método MergeSort ordenado: 
+Tempo de execução: 918 milissegundos
+Número de comparações: 10936915
+Número de movimentações: 7075712
+
+Método MergeSort ordenado: 
+Tempo de execução: 956 milissegundos
+Número de comparações: 10936915
+Número de movimentações: 7075712
+
+Método MergeSort ordenado: 
+Tempo de execução: 994 milissegundos
+Número de comparações: 10936915
+Número de movimentações: 7075712
+
+Método MergeSort ordenado: 
+Tempo de execução: 1032 milissegundos
+Número de comparações: 10936915
+Número de movimentações: 7075712
+
+Método MergeSort ordenado: 
+Tempo de execução: 1070 milissegundos
+Número de comparações: 10936915
+Número de movimentações: 7075712
+
+Método MergeSort ordenado: 
+Tempo de execução: 1108 milissegundos
+Número de comparações: 10936915
+Número de movimentações: 7075712
+
+Método MergeSort ordenado: 
+Tempo de execução: 1147 milissegundos
+Número de comparações: 10936915
+Número de movimentações: 7075712
+
+Método MergeSort ordenado: 
+Tempo de execução: 1185 milissegundos
+Número de comparações: 10936915
+Número de movimentações: 7075712
+
+Método MergeSort ordenado: 
+Tempo de execução: 1223 milissegundos
+Número de comparações: 10936915
+Número de movimentações: 7075712
+
+Método MergeSort ordenado: 
+Tempo de execução: 1261 milissegundos
+Número de comparações: 10936915
+Número de movimentações: 7075712
+
+Método MergeSort inversamente ordenado: 
+Tempo de execução: 1354 milissegundos
+Número de comparações: 5390808
+Número de movimentações: 3537856
+
+Método MergeSort inversamente ordenado: 
+Tempo de execução: 1445 milissegundos
+Número de comparações: 5390808
+Número de movimentações: 3537856
+
+Método MergeSort inversamente ordenado: 
+Tempo de execução: 1512 milissegundos
+Número de comparações: 5390808
+Número de movimentações: 3537856
+
+Método MergeSort inversamente ordenado: 
+Tempo de execução: 1579 milissegundos
+Número de comparações: 5390808
+Número de movimentações: 3537856
+
+Método MergeSort inversamente ordenado: 
+Tempo de execução: 1646 milissegundos
+Número de comparações: 5390808
+Número de movimentações: 3537856
+
+Método MergeSort inversamente ordenado: 
+Tempo de execução: 1714 milissegundos
+Número de comparações: 5390808
+Número de movimentações: 3537856
+
+Método MergeSort inversamente ordenado: 
+Tempo de execução: 1782 milissegundos
+Número de comparações: 5390808
+Número de movimentações: 3537856
+
+Método MergeSort inversamente ordenado: 
+Tempo de execução: 1849 milissegundos
+Número de comparações: 5390808
+Número de movimentações: 3537856
+
+Método MergeSort inversamente ordenado: 
+Tempo de execução: 1915 milissegundos
+Número de comparações: 5390808
+Número de movimentações: 3537856
+
+Método MergeSort inversamente ordenado: 
+Tempo de execução: 1983 milissegundos
+Número de comparações: 5390808
+Número de movimentações: 3537856
+
+Método QuickSort ordenar: 
+Tempo de execução: 44 milissegundos
+Número de comparações: 4039608
+Número de movimentações: 888517
+
+Método QuickSort ordenar: 
+Tempo de execução: 88 milissegundos
+Número de comparações: 4039608
+Número de movimentações: 888517
+
+Método QuickSort ordenar: 
+Tempo de execução: 131 milissegundos
+Número de comparações: 4039608
+Número de movimentações: 888517
+
+Método QuickSort ordenar: 
+Tempo de execução: 174 milissegundos
+Número de comparações: 4039608
+Número de movimentações: 888517
+
+Método QuickSort ordenar: 
+Tempo de execução: 218 milissegundos
+Número de comparações: 4039608
+Número de movimentações: 888517
+
+Método QuickSort ordenar: 
+Tempo de execução: 262 milissegundos
+Número de comparações: 4039608
+Número de movimentações: 888517
+
+Método QuickSort ordenar: 
+Tempo de execução: 306 milissegundos
+Número de comparações: 4039608
+Número de movimentações: 888517
+
+Método QuickSort ordenar: 
+Tempo de execução: 350 milissegundos
+Número de comparações: 4039608
+Número de movimentações: 888517
+
+Método QuickSort ordenar: 
+Tempo de execução: 394 milissegundos
+Número de comparações: 4039608
+Número de movimentações: 888517
+
+Método QuickSort ordenar: 
+Tempo de execução: 437 milissegundos
+Número de comparações: 4039608
+Número de movimentações: 888517
+
+Método QuickSort ordenado: 
+Tempo de execução: 450 milissegundos
+Número de comparações: 4976274
+Número de movimentações: 1050332
+
+Método QuickSort ordenado: 
+Tempo de execução: 463 milissegundos
+Número de comparações: 4976274
+Número de movimentações: 1050332
+
+Método QuickSort ordenado: 
+Tempo de execução: 475 milissegundos
+Número de comparações: 4976274
+Número de movimentações: 1050332
+
+Método QuickSort ordenado: 
+Tempo de execução: 488 milissegundos
+Número de comparações: 4976274
+Número de movimentações: 1050332
+
+Método QuickSort ordenado: 
+Tempo de execução: 500 milissegundos
+Número de comparações: 4976274
+Número de movimentações: 1050332
+
+Método QuickSort ordenado: 
+Tempo de execução: 512 milissegundos
+Número de comparações: 4976274
+Número de movimentações: 1050332
+
+Método QuickSort ordenado: 
+Tempo de execução: 524 milissegundos
+Número de comparações: 4976274
+Número de movimentações: 1050332
+
+Método QuickSort ordenado: 
+Tempo de execução: 537 milissegundos
+Número de comparações: 4976274
+Número de movimentações: 1050332
+
+Método QuickSort ordenado: 
+Tempo de execução: 549 milissegundos
+Número de comparações: 4976274
+Número de movimentações: 1050332
+
+Método QuickSort ordenado: 
+Tempo de execução: 561 milissegundos
+Número de comparações: 4976274
+Número de movimentações: 1050332
+
+Método QuickSort inversamente ordenado: 
+Tempo de execução: 606 milissegundos
+Número de comparações: 4039608
+Número de movimentações: 888517
+
+Método QuickSort inversamente ordenado: 
+Tempo de execução: 650 milissegundos
+Número de comparações: 4039608
+Número de movimentações: 888517
+
+Método QuickSort inversamente ordenado: 
+Tempo de execução: 694 milissegundos
+Número de comparações: 4039608
+Número de movimentações: 888517
+
+Método QuickSort inversamente ordenado: 
+Tempo de execução: 737 milissegundos
+Número de comparações: 4039608
+Número de movimentações: 888517
+
+Método QuickSort inversamente ordenado: 
+Tempo de execução: 781 milissegundos
+Número de comparações: 4039608
+Número de movimentações: 888517
+
+Método QuickSort inversamente ordenado: 
+Tempo de execução: 823 milissegundos
+Número de comparações: 4039608
+Número de movimentações: 888517
+
+Método QuickSort inversamente ordenado: 
+Tempo de execução: 867 milissegundos
+Número de comparações: 4039608
+Número de movimentações: 888517
+
+Método QuickSort inversamente ordenado: 
+Tempo de execução: 912 milissegundos
+Número de comparações: 4039608
+Número de movimentações: 888517
+
+Método QuickSort inversamente ordenado: 
+Tempo de execução: 956 milissegundos
+Número de comparações: 4039608
+Número de movimentações: 888517
+
+Método QuickSort inversamente ordenado: 
+Tempo de execução: 1000 milissegundos
+Número de comparações: 4039608
+Número de movimentações: 888517
+
+=================================================
+Vetor de tamanho: 200000
+Média do tempo de execução da ShellSort: 1183
+Média das comparações da ShellSort: 6972882
+Média das movimentações da ShellSort: 9729047
+=================================================
+=================================================
+Vetor de tamanho: 200000
+Média do tempo de execução da MergeSort: 1083
+Média das comparações da MergeSort: 7239658
+Média das movimentações da MergeSort: 4717141
+=================================================
+=================================================
+Vetor de tamanho: 200000
+Média do tempo de execução da QuickSort: 516
+Média das comparações da QuickSort: 4351830
+Média das movimentações da QuickSort: 942455
+=================================================
