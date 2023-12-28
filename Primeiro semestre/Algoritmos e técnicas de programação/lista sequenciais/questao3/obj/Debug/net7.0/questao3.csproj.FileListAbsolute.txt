@@ -1,0 +1,15 @@
+C:\Users\e248223\Desktop\lista sequenciais\questao3\bin\Debug\net7.0\questao3.exe
+C:\Users\e248223\Desktop\lista sequenciais\questao3\bin\Debug\net7.0\questao3.deps.json
+C:\Users\e248223\Desktop\lista sequenciais\questao3\bin\Debug\net7.0\questao3.runtimeconfig.json
+C:\Users\e248223\Desktop\lista sequenciais\questao3\bin\Debug\net7.0\questao3.dll
+C:\Users\e248223\Desktop\lista sequenciais\questao3\bin\Debug\net7.0\questao3.pdb
+C:\Users\e248223\Desktop\lista sequenciais\questao3\obj\Debug\net7.0\questao3.csproj.AssemblyReference.cache
+C:\Users\e248223\Desktop\lista sequenciais\questao3\obj\Debug\net7.0\questao3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\e248223\Desktop\lista sequenciais\questao3\obj\Debug\net7.0\questao3.AssemblyInfoInputs.cache
+C:\Users\e248223\Desktop\lista sequenciais\questao3\obj\Debug\net7.0\questao3.AssemblyInfo.cs
+C:\Users\e248223\Desktop\lista sequenciais\questao3\obj\Debug\net7.0\questao3.csproj.CoreCompileInputs.cache
+C:\Users\e248223\Desktop\lista sequenciais\questao3\obj\Debug\net7.0\questao3.dll
+C:\Users\e248223\Desktop\lista sequenciais\questao3\obj\Debug\net7.0\refint\questao3.dll
+C:\Users\e248223\Desktop\lista sequenciais\questao3\obj\Debug\net7.0\questao3.pdb
+C:\Users\e248223\Desktop\lista sequenciais\questao3\obj\Debug\net7.0\questao3.genruntimeconfig.cache
+C:\Users\e248223\Desktop\lista sequenciais\questao3\obj\Debug\net7.0\ref\questao3.dll

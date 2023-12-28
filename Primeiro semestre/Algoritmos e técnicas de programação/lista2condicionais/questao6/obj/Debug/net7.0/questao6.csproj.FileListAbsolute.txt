@@ -1,0 +1,15 @@
+C:\Users\luant\OneDrive\Área de Trabalho\puc\lista2condicionais\questao6\obj\Debug\net7.0\questao6.csproj.AssemblyReference.cache
+C:\Users\luant\OneDrive\Área de Trabalho\puc\lista2condicionais\questao6\obj\Debug\net7.0\questao6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luant\OneDrive\Área de Trabalho\puc\lista2condicionais\questao6\obj\Debug\net7.0\questao6.AssemblyInfoInputs.cache
+C:\Users\luant\OneDrive\Área de Trabalho\puc\lista2condicionais\questao6\obj\Debug\net7.0\questao6.AssemblyInfo.cs
+C:\Users\luant\OneDrive\Área de Trabalho\puc\lista2condicionais\questao6\obj\Debug\net7.0\questao6.csproj.CoreCompileInputs.cache
+C:\Users\luant\OneDrive\Área de Trabalho\puc\lista2condicionais\questao6\bin\Debug\net7.0\questao6.exe
+C:\Users\luant\OneDrive\Área de Trabalho\puc\lista2condicionais\questao6\bin\Debug\net7.0\questao6.deps.json
+C:\Users\luant\OneDrive\Área de Trabalho\puc\lista2condicionais\questao6\bin\Debug\net7.0\questao6.runtimeconfig.json
+C:\Users\luant\OneDrive\Área de Trabalho\puc\lista2condicionais\questao6\bin\Debug\net7.0\questao6.dll
+C:\Users\luant\OneDrive\Área de Trabalho\puc\lista2condicionais\questao6\bin\Debug\net7.0\questao6.pdb
+C:\Users\luant\OneDrive\Área de Trabalho\puc\lista2condicionais\questao6\obj\Debug\net7.0\questao6.dll
+C:\Users\luant\OneDrive\Área de Trabalho\puc\lista2condicionais\questao6\obj\Debug\net7.0\refint\questao6.dll
+C:\Users\luant\OneDrive\Área de Trabalho\puc\lista2condicionais\questao6\obj\Debug\net7.0\questao6.pdb
+C:\Users\luant\OneDrive\Área de Trabalho\puc\lista2condicionais\questao6\obj\Debug\net7.0\questao6.genruntimeconfig.cache
+C:\Users\luant\OneDrive\Área de Trabalho\puc\lista2condicionais\questao6\obj\Debug\net7.0\ref\questao6.dll
