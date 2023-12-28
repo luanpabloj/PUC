@@ -1,0 +1,15 @@
+C:\Users\luanp\OneDrive\Área de Trabalho\programação\Algoritmos e Estruturas de Dados\Aula Prática 12 - Ordenação (ShellSort - MergeSort e QuickSort)\alunos\obj\Debug\net6.0\alunos.csproj.AssemblyReference.cache
+C:\Users\luanp\OneDrive\Área de Trabalho\programação\Algoritmos e Estruturas de Dados\Aula Prática 12 - Ordenação (ShellSort - MergeSort e QuickSort)\alunos\obj\Debug\net6.0\alunos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luanp\OneDrive\Área de Trabalho\programação\Algoritmos e Estruturas de Dados\Aula Prática 12 - Ordenação (ShellSort - MergeSort e QuickSort)\alunos\obj\Debug\net6.0\alunos.AssemblyInfoInputs.cache
+C:\Users\luanp\OneDrive\Área de Trabalho\programação\Algoritmos e Estruturas de Dados\Aula Prática 12 - Ordenação (ShellSort - MergeSort e QuickSort)\alunos\obj\Debug\net6.0\alunos.AssemblyInfo.cs
+C:\Users\luanp\OneDrive\Área de Trabalho\programação\Algoritmos e Estruturas de Dados\Aula Prática 12 - Ordenação (ShellSort - MergeSort e QuickSort)\alunos\obj\Debug\net6.0\alunos.csproj.CoreCompileInputs.cache
+C:\Users\luanp\OneDrive\Área de Trabalho\programação\Algoritmos e Estruturas de Dados\Aula Prática 12 - Ordenação (ShellSort - MergeSort e QuickSort)\alunos\bin\Debug\net6.0\alunos.exe
+C:\Users\luanp\OneDrive\Área de Trabalho\programação\Algoritmos e Estruturas de Dados\Aula Prática 12 - Ordenação (ShellSort - MergeSort e QuickSort)\alunos\bin\Debug\net6.0\alunos.deps.json
+C:\Users\luanp\OneDrive\Área de Trabalho\programação\Algoritmos e Estruturas de Dados\Aula Prática 12 - Ordenação (ShellSort - MergeSort e QuickSort)\alunos\bin\Debug\net6.0\alunos.runtimeconfig.json
+C:\Users\luanp\OneDrive\Área de Trabalho\programação\Algoritmos e Estruturas de Dados\Aula Prática 12 - Ordenação (ShellSort - MergeSort e QuickSort)\alunos\bin\Debug\net6.0\alunos.dll
+C:\Users\luanp\OneDrive\Área de Trabalho\programação\Algoritmos e Estruturas de Dados\Aula Prática 12 - Ordenação (ShellSort - MergeSort e QuickSort)\alunos\bin\Debug\net6.0\alunos.pdb
+C:\Users\luanp\OneDrive\Área de Trabalho\programação\Algoritmos e Estruturas de Dados\Aula Prática 12 - Ordenação (ShellSort - MergeSort e QuickSort)\alunos\obj\Debug\net6.0\alunos.dll
+C:\Users\luanp\OneDrive\Área de Trabalho\programação\Algoritmos e Estruturas de Dados\Aula Prática 12 - Ordenação (ShellSort - MergeSort e QuickSort)\alunos\obj\Debug\net6.0\refint\alunos.dll
+C:\Users\luanp\OneDrive\Área de Trabalho\programação\Algoritmos e Estruturas de Dados\Aula Prática 12 - Ordenação (ShellSort - MergeSort e QuickSort)\alunos\obj\Debug\net6.0\alunos.pdb
+C:\Users\luanp\OneDrive\Área de Trabalho\programação\Algoritmos e Estruturas de Dados\Aula Prática 12 - Ordenação (ShellSort - MergeSort e QuickSort)\alunos\obj\Debug\net6.0\alunos.genruntimeconfig.cache
+C:\Users\luanp\OneDrive\Área de Trabalho\programação\Algoritmos e Estruturas de Dados\Aula Prática 12 - Ordenação (ShellSort - MergeSort e QuickSort)\alunos\obj\Debug\net6.0\ref\alunos.dll
