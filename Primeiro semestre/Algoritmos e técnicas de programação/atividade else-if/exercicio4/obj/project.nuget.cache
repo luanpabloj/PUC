@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Xb3mzQhMSt9n4Dv5x+4GTXZC2skaJeJ9ErOhChGejG+FxEnYAI8iCDkLi8VXdbCAgzKDXbixgV2CvAmj53cPqA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\luant\\OneDrive\\Área de Trabalho\\puc\\program\\exercicio4\\exercicio4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\luant\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\luant\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\luant\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\luant\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}

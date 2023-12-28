@@ -1,0 +1,30 @@
+C:\Users\e248223\Desktop\atividade 2\bin\Debug\net7.0\atividade 2.exe
+C:\Users\e248223\Desktop\atividade 2\bin\Debug\net7.0\atividade 2.deps.json
+C:\Users\e248223\Desktop\atividade 2\bin\Debug\net7.0\atividade 2.runtimeconfig.json
+C:\Users\e248223\Desktop\atividade 2\bin\Debug\net7.0\atividade 2.dll
+C:\Users\e248223\Desktop\atividade 2\bin\Debug\net7.0\atividade 2.pdb
+C:\Users\e248223\Desktop\atividade 2\obj\Debug\net7.0\atividade 2.csproj.AssemblyReference.cache
+C:\Users\e248223\Desktop\atividade 2\obj\Debug\net7.0\atividade 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\e248223\Desktop\atividade 2\obj\Debug\net7.0\atividade 2.AssemblyInfoInputs.cache
+C:\Users\e248223\Desktop\atividade 2\obj\Debug\net7.0\atividade 2.AssemblyInfo.cs
+C:\Users\e248223\Desktop\atividade 2\obj\Debug\net7.0\atividade 2.csproj.CoreCompileInputs.cache
+C:\Users\e248223\Desktop\atividade 2\obj\Debug\net7.0\atividade 2.dll
+C:\Users\e248223\Desktop\atividade 2\obj\Debug\net7.0\refint\atividade 2.dll
+C:\Users\e248223\Desktop\atividade 2\obj\Debug\net7.0\atividade 2.pdb
+C:\Users\e248223\Desktop\atividade 2\obj\Debug\net7.0\atividade 2.genruntimeconfig.cache
+C:\Users\e248223\Desktop\atividade 2\obj\Debug\net7.0\ref\atividade 2.dll
+C:\Users\e248223\Desktop\atividade 2\Questão 1\bin\Debug\net7.0\atividade 2.exe
+C:\Users\e248223\Desktop\atividade 2\Questão 1\bin\Debug\net7.0\atividade 2.deps.json
+C:\Users\e248223\Desktop\atividade 2\Questão 1\bin\Debug\net7.0\atividade 2.runtimeconfig.json
+C:\Users\e248223\Desktop\atividade 2\Questão 1\bin\Debug\net7.0\atividade 2.dll
+C:\Users\e248223\Desktop\atividade 2\Questão 1\bin\Debug\net7.0\atividade 2.pdb
+C:\Users\e248223\Desktop\atividade 2\Questão 1\obj\Debug\net7.0\atividade 2.csproj.AssemblyReference.cache
+C:\Users\e248223\Desktop\atividade 2\Questão 1\obj\Debug\net7.0\atividade 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\e248223\Desktop\atividade 2\Questão 1\obj\Debug\net7.0\atividade 2.AssemblyInfoInputs.cache
+C:\Users\e248223\Desktop\atividade 2\Questão 1\obj\Debug\net7.0\atividade 2.AssemblyInfo.cs
+C:\Users\e248223\Desktop\atividade 2\Questão 1\obj\Debug\net7.0\atividade 2.csproj.CoreCompileInputs.cache
+C:\Users\e248223\Desktop\atividade 2\Questão 1\obj\Debug\net7.0\atividade 2.dll
+C:\Users\e248223\Desktop\atividade 2\Questão 1\obj\Debug\net7.0\refint\atividade 2.dll
+C:\Users\e248223\Desktop\atividade 2\Questão 1\obj\Debug\net7.0\atividade 2.pdb
+C:\Users\e248223\Desktop\atividade 2\Questão 1\obj\Debug\net7.0\atividade 2.genruntimeconfig.cache
+C:\Users\e248223\Desktop\atividade 2\Questão 1\obj\Debug\net7.0\ref\atividade 2.dll
