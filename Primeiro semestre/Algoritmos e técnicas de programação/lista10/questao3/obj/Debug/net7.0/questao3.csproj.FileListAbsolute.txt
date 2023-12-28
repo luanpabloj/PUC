@@ -1,0 +1,15 @@
+C:\Users\luant\OneDrive\Área de Trabalho\puc\ATP\lista10\questao3\obj\Debug\net7.0\questao3.csproj.AssemblyReference.cache
+C:\Users\luant\OneDrive\Área de Trabalho\puc\ATP\lista10\questao3\obj\Debug\net7.0\questao3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luant\OneDrive\Área de Trabalho\puc\ATP\lista10\questao3\obj\Debug\net7.0\questao3.AssemblyInfoInputs.cache
+C:\Users\luant\OneDrive\Área de Trabalho\puc\ATP\lista10\questao3\obj\Debug\net7.0\questao3.AssemblyInfo.cs
+C:\Users\luant\OneDrive\Área de Trabalho\puc\ATP\lista10\questao3\obj\Debug\net7.0\questao3.csproj.CoreCompileInputs.cache
+C:\Users\luant\OneDrive\Área de Trabalho\puc\ATP\lista10\questao3\bin\Debug\net7.0\questao3.exe
+C:\Users\luant\OneDrive\Área de Trabalho\puc\ATP\lista10\questao3\bin\Debug\net7.0\questao3.deps.json
+C:\Users\luant\OneDrive\Área de Trabalho\puc\ATP\lista10\questao3\bin\Debug\net7.0\questao3.runtimeconfig.json
+C:\Users\luant\OneDrive\Área de Trabalho\puc\ATP\lista10\questao3\bin\Debug\net7.0\questao3.dll
+C:\Users\luant\OneDrive\Área de Trabalho\puc\ATP\lista10\questao3\bin\Debug\net7.0\questao3.pdb
+C:\Users\luant\OneDrive\Área de Trabalho\puc\ATP\lista10\questao3\obj\Debug\net7.0\questao3.dll
+C:\Users\luant\OneDrive\Área de Trabalho\puc\ATP\lista10\questao3\obj\Debug\net7.0\refint\questao3.dll
+C:\Users\luant\OneDrive\Área de Trabalho\puc\ATP\lista10\questao3\obj\Debug\net7.0\questao3.pdb
+C:\Users\luant\OneDrive\Área de Trabalho\puc\ATP\lista10\questao3\obj\Debug\net7.0\questao3.genruntimeconfig.cache
+C:\Users\luant\OneDrive\Área de Trabalho\puc\ATP\lista10\questao3\obj\Debug\net7.0\ref\questao3.dll

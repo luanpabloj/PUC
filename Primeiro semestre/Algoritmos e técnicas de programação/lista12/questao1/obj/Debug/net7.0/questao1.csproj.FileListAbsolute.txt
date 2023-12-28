@@ -1,0 +1,15 @@
+C:\Users\luant\OneDrive\Área de Trabalho\puc\ATP\lista12\questao1\bin\Debug\net7.0\questao1.exe
+C:\Users\luant\OneDrive\Área de Trabalho\puc\ATP\lista12\questao1\bin\Debug\net7.0\questao1.deps.json
+C:\Users\luant\OneDrive\Área de Trabalho\puc\ATP\lista12\questao1\bin\Debug\net7.0\questao1.runtimeconfig.json
+C:\Users\luant\OneDrive\Área de Trabalho\puc\ATP\lista12\questao1\bin\Debug\net7.0\questao1.dll
+C:\Users\luant\OneDrive\Área de Trabalho\puc\ATP\lista12\questao1\bin\Debug\net7.0\questao1.pdb
+C:\Users\luant\OneDrive\Área de Trabalho\puc\ATP\lista12\questao1\obj\Debug\net7.0\questao1.csproj.AssemblyReference.cache
+C:\Users\luant\OneDrive\Área de Trabalho\puc\ATP\lista12\questao1\obj\Debug\net7.0\questao1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luant\OneDrive\Área de Trabalho\puc\ATP\lista12\questao1\obj\Debug\net7.0\questao1.AssemblyInfoInputs.cache
+C:\Users\luant\OneDrive\Área de Trabalho\puc\ATP\lista12\questao1\obj\Debug\net7.0\questao1.AssemblyInfo.cs
+C:\Users\luant\OneDrive\Área de Trabalho\puc\ATP\lista12\questao1\obj\Debug\net7.0\questao1.csproj.CoreCompileInputs.cache
+C:\Users\luant\OneDrive\Área de Trabalho\puc\ATP\lista12\questao1\obj\Debug\net7.0\questao1.dll
+C:\Users\luant\OneDrive\Área de Trabalho\puc\ATP\lista12\questao1\obj\Debug\net7.0\refint\questao1.dll
+C:\Users\luant\OneDrive\Área de Trabalho\puc\ATP\lista12\questao1\obj\Debug\net7.0\questao1.pdb
+C:\Users\luant\OneDrive\Área de Trabalho\puc\ATP\lista12\questao1\obj\Debug\net7.0\questao1.genruntimeconfig.cache
+C:\Users\luant\OneDrive\Área de Trabalho\puc\ATP\lista12\questao1\obj\Debug\net7.0\ref\questao1.dll

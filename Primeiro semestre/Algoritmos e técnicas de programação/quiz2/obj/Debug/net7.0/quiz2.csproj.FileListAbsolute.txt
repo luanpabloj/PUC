@@ -1,0 +1,15 @@
+C:\Users\luant\OneDrive\Área de Trabalho\puc\ATP\quiz2\bin\Debug\net7.0\quiz2.exe
+C:\Users\luant\OneDrive\Área de Trabalho\puc\ATP\quiz2\bin\Debug\net7.0\quiz2.deps.json
+C:\Users\luant\OneDrive\Área de Trabalho\puc\ATP\quiz2\bin\Debug\net7.0\quiz2.runtimeconfig.json
+C:\Users\luant\OneDrive\Área de Trabalho\puc\ATP\quiz2\bin\Debug\net7.0\quiz2.dll
+C:\Users\luant\OneDrive\Área de Trabalho\puc\ATP\quiz2\bin\Debug\net7.0\quiz2.pdb
+C:\Users\luant\OneDrive\Área de Trabalho\puc\ATP\quiz2\obj\Debug\net7.0\quiz2.csproj.AssemblyReference.cache
+C:\Users\luant\OneDrive\Área de Trabalho\puc\ATP\quiz2\obj\Debug\net7.0\quiz2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luant\OneDrive\Área de Trabalho\puc\ATP\quiz2\obj\Debug\net7.0\quiz2.AssemblyInfoInputs.cache
+C:\Users\luant\OneDrive\Área de Trabalho\puc\ATP\quiz2\obj\Debug\net7.0\quiz2.AssemblyInfo.cs
+C:\Users\luant\OneDrive\Área de Trabalho\puc\ATP\quiz2\obj\Debug\net7.0\quiz2.csproj.CoreCompileInputs.cache
+C:\Users\luant\OneDrive\Área de Trabalho\puc\ATP\quiz2\obj\Debug\net7.0\quiz2.dll
+C:\Users\luant\OneDrive\Área de Trabalho\puc\ATP\quiz2\obj\Debug\net7.0\refint\quiz2.dll
+C:\Users\luant\OneDrive\Área de Trabalho\puc\ATP\quiz2\obj\Debug\net7.0\quiz2.pdb
+C:\Users\luant\OneDrive\Área de Trabalho\puc\ATP\quiz2\obj\Debug\net7.0\quiz2.genruntimeconfig.cache
+C:\Users\luant\OneDrive\Área de Trabalho\puc\ATP\quiz2\obj\Debug\net7.0\ref\quiz2.dll

@@ -1,0 +1,20 @@
+C:\Users\e248223\Desktop\lista sequenciais\questao12\obj\Debug\net7.0\questao12.csproj.AssemblyReference.cache
+C:\Users\e248223\Desktop\lista sequenciais\questao12\obj\Debug\net7.0\questao12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\e248223\Desktop\lista sequenciais\questao12\obj\Debug\net7.0\questao12.AssemblyInfoInputs.cache
+C:\Users\e248223\Desktop\lista sequenciais\questao12\obj\Debug\net7.0\questao12.AssemblyInfo.cs
+C:\Users\e248223\Desktop\lista sequenciais\questao12\obj\Debug\net7.0\questao12.csproj.CoreCompileInputs.cache
+C:\Users\luant\OneDrive\Área de Trabalho\puc\lista sequenciais\questao12\obj\Debug\net7.0\questao12.csproj.AssemblyReference.cache
+C:\Users\luant\OneDrive\Área de Trabalho\puc\lista sequenciais\questao12\obj\Debug\net7.0\questao12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luant\OneDrive\Área de Trabalho\puc\lista sequenciais\questao12\obj\Debug\net7.0\questao12.AssemblyInfoInputs.cache
+C:\Users\luant\OneDrive\Área de Trabalho\puc\lista sequenciais\questao12\obj\Debug\net7.0\questao12.AssemblyInfo.cs
+C:\Users\luant\OneDrive\Área de Trabalho\puc\lista sequenciais\questao12\obj\Debug\net7.0\questao12.csproj.CoreCompileInputs.cache
+C:\Users\luant\OneDrive\Área de Trabalho\puc\lista sequenciais\questao12\bin\Debug\net7.0\questao12.exe
+C:\Users\luant\OneDrive\Área de Trabalho\puc\lista sequenciais\questao12\bin\Debug\net7.0\questao12.deps.json
+C:\Users\luant\OneDrive\Área de Trabalho\puc\lista sequenciais\questao12\bin\Debug\net7.0\questao12.runtimeconfig.json
+C:\Users\luant\OneDrive\Área de Trabalho\puc\lista sequenciais\questao12\bin\Debug\net7.0\questao12.dll
+C:\Users\luant\OneDrive\Área de Trabalho\puc\lista sequenciais\questao12\bin\Debug\net7.0\questao12.pdb
+C:\Users\luant\OneDrive\Área de Trabalho\puc\lista sequenciais\questao12\obj\Debug\net7.0\questao12.dll
+C:\Users\luant\OneDrive\Área de Trabalho\puc\lista sequenciais\questao12\obj\Debug\net7.0\refint\questao12.dll
+C:\Users\luant\OneDrive\Área de Trabalho\puc\lista sequenciais\questao12\obj\Debug\net7.0\questao12.pdb
+C:\Users\luant\OneDrive\Área de Trabalho\puc\lista sequenciais\questao12\obj\Debug\net7.0\questao12.genruntimeconfig.cache
+C:\Users\luant\OneDrive\Área de Trabalho\puc\lista sequenciais\questao12\obj\Debug\net7.0\ref\questao12.dll

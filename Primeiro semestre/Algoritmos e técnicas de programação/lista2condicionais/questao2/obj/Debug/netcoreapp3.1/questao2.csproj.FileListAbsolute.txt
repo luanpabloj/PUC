@@ -1,0 +1,14 @@
+C:\Users\1434351\Desktop\lista2condicionais\questao2\bin\Debug\netcoreapp3.1\questao2.exe
+C:\Users\1434351\Desktop\lista2condicionais\questao2\bin\Debug\netcoreapp3.1\questao2.deps.json
+C:\Users\1434351\Desktop\lista2condicionais\questao2\bin\Debug\netcoreapp3.1\questao2.runtimeconfig.json
+C:\Users\1434351\Desktop\lista2condicionais\questao2\bin\Debug\netcoreapp3.1\questao2.runtimeconfig.dev.json
+C:\Users\1434351\Desktop\lista2condicionais\questao2\bin\Debug\netcoreapp3.1\questao2.dll
+C:\Users\1434351\Desktop\lista2condicionais\questao2\bin\Debug\netcoreapp3.1\questao2.pdb
+C:\Users\1434351\Desktop\lista2condicionais\questao2\obj\Debug\netcoreapp3.1\questao2.csproj.AssemblyReference.cache
+C:\Users\1434351\Desktop\lista2condicionais\questao2\obj\Debug\netcoreapp3.1\questao2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1434351\Desktop\lista2condicionais\questao2\obj\Debug\netcoreapp3.1\questao2.AssemblyInfoInputs.cache
+C:\Users\1434351\Desktop\lista2condicionais\questao2\obj\Debug\netcoreapp3.1\questao2.AssemblyInfo.cs
+C:\Users\1434351\Desktop\lista2condicionais\questao2\obj\Debug\netcoreapp3.1\questao2.csproj.CoreCompileInputs.cache
+C:\Users\1434351\Desktop\lista2condicionais\questao2\obj\Debug\netcoreapp3.1\questao2.dll
+C:\Users\1434351\Desktop\lista2condicionais\questao2\obj\Debug\netcoreapp3.1\questao2.pdb
+C:\Users\1434351\Desktop\lista2condicionais\questao2\obj\Debug\netcoreapp3.1\questao2.genruntimeconfig.cache
