@@ -1,0 +1,15 @@
+C:\Users\luanp\OneDrive\Área de Trabalho\programação\Projetos\Projetinho biblioteca\bin\Debug\net6.0\Projetinho biblioteca.exe
+C:\Users\luanp\OneDrive\Área de Trabalho\programação\Projetos\Projetinho biblioteca\bin\Debug\net6.0\Projetinho biblioteca.deps.json
+C:\Users\luanp\OneDrive\Área de Trabalho\programação\Projetos\Projetinho biblioteca\bin\Debug\net6.0\Projetinho biblioteca.runtimeconfig.json
+C:\Users\luanp\OneDrive\Área de Trabalho\programação\Projetos\Projetinho biblioteca\bin\Debug\net6.0\Projetinho biblioteca.dll
+C:\Users\luanp\OneDrive\Área de Trabalho\programação\Projetos\Projetinho biblioteca\bin\Debug\net6.0\Projetinho biblioteca.pdb
+C:\Users\luanp\OneDrive\Área de Trabalho\programação\Projetos\Projetinho biblioteca\obj\Debug\net6.0\Projetinho biblioteca.csproj.AssemblyReference.cache
+C:\Users\luanp\OneDrive\Área de Trabalho\programação\Projetos\Projetinho biblioteca\obj\Debug\net6.0\Projetinho biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luanp\OneDrive\Área de Trabalho\programação\Projetos\Projetinho biblioteca\obj\Debug\net6.0\Projetinho biblioteca.AssemblyInfoInputs.cache
+C:\Users\luanp\OneDrive\Área de Trabalho\programação\Projetos\Projetinho biblioteca\obj\Debug\net6.0\Projetinho biblioteca.AssemblyInfo.cs
+C:\Users\luanp\OneDrive\Área de Trabalho\programação\Projetos\Projetinho biblioteca\obj\Debug\net6.0\Projetinho biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\luanp\OneDrive\Área de Trabalho\programação\Projetos\Projetinho biblioteca\obj\Debug\net6.0\Projetinho biblioteca.dll
+C:\Users\luanp\OneDrive\Área de Trabalho\programação\Projetos\Projetinho biblioteca\obj\Debug\net6.0\refint\Projetinho biblioteca.dll
+C:\Users\luanp\OneDrive\Área de Trabalho\programação\Projetos\Projetinho biblioteca\obj\Debug\net6.0\Projetinho biblioteca.pdb
+C:\Users\luanp\OneDrive\Área de Trabalho\programação\Projetos\Projetinho biblioteca\obj\Debug\net6.0\Projetinho biblioteca.genruntimeconfig.cache
+C:\Users\luanp\OneDrive\Área de Trabalho\programação\Projetos\Projetinho biblioteca\obj\Debug\net6.0\ref\Projetinho biblioteca.dll
