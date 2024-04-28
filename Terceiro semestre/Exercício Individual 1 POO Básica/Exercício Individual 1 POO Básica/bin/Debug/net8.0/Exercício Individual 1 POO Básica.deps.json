@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Exercício Individual 1 POO Básica/1.0.0": {
+        "runtime": {
+          "Exercício Individual 1 POO Básica.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exercício Individual 1 POO Básica/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

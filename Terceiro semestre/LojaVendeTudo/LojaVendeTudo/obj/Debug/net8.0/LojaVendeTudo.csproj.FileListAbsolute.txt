@@ -1,0 +1,30 @@
+C:\Users\falre\Me\PUC\pucminas-aulas-2024\2024-01\poo\exercicios\lista03\LojaVendeTudo\LojaVendeTudo\bin\Debug\net8.0\LojaVendeTudo.exe
+C:\Users\falre\Me\PUC\pucminas-aulas-2024\2024-01\poo\exercicios\lista03\LojaVendeTudo\LojaVendeTudo\bin\Debug\net8.0\LojaVendeTudo.deps.json
+C:\Users\falre\Me\PUC\pucminas-aulas-2024\2024-01\poo\exercicios\lista03\LojaVendeTudo\LojaVendeTudo\bin\Debug\net8.0\LojaVendeTudo.runtimeconfig.json
+C:\Users\falre\Me\PUC\pucminas-aulas-2024\2024-01\poo\exercicios\lista03\LojaVendeTudo\LojaVendeTudo\bin\Debug\net8.0\LojaVendeTudo.dll
+C:\Users\falre\Me\PUC\pucminas-aulas-2024\2024-01\poo\exercicios\lista03\LojaVendeTudo\LojaVendeTudo\bin\Debug\net8.0\LojaVendeTudo.pdb
+C:\Users\falre\Me\PUC\pucminas-aulas-2024\2024-01\poo\exercicios\lista03\LojaVendeTudo\LojaVendeTudo\obj\Debug\net8.0\LojaVendeTudo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\falre\Me\PUC\pucminas-aulas-2024\2024-01\poo\exercicios\lista03\LojaVendeTudo\LojaVendeTudo\obj\Debug\net8.0\LojaVendeTudo.AssemblyInfoInputs.cache
+C:\Users\falre\Me\PUC\pucminas-aulas-2024\2024-01\poo\exercicios\lista03\LojaVendeTudo\LojaVendeTudo\obj\Debug\net8.0\LojaVendeTudo.AssemblyInfo.cs
+C:\Users\falre\Me\PUC\pucminas-aulas-2024\2024-01\poo\exercicios\lista03\LojaVendeTudo\LojaVendeTudo\obj\Debug\net8.0\LojaVendeTudo.csproj.CoreCompileInputs.cache
+C:\Users\falre\Me\PUC\pucminas-aulas-2024\2024-01\poo\exercicios\lista03\LojaVendeTudo\LojaVendeTudo\obj\Debug\net8.0\LojaVendeTudo.sourcelink.json
+C:\Users\falre\Me\PUC\pucminas-aulas-2024\2024-01\poo\exercicios\lista03\LojaVendeTudo\LojaVendeTudo\obj\Debug\net8.0\LojaVendeTudo.dll
+C:\Users\falre\Me\PUC\pucminas-aulas-2024\2024-01\poo\exercicios\lista03\LojaVendeTudo\LojaVendeTudo\obj\Debug\net8.0\refint\LojaVendeTudo.dll
+C:\Users\falre\Me\PUC\pucminas-aulas-2024\2024-01\poo\exercicios\lista03\LojaVendeTudo\LojaVendeTudo\obj\Debug\net8.0\LojaVendeTudo.pdb
+C:\Users\falre\Me\PUC\pucminas-aulas-2024\2024-01\poo\exercicios\lista03\LojaVendeTudo\LojaVendeTudo\obj\Debug\net8.0\LojaVendeTudo.genruntimeconfig.cache
+C:\Users\falre\Me\PUC\pucminas-aulas-2024\2024-01\poo\exercicios\lista03\LojaVendeTudo\LojaVendeTudo\obj\Debug\net8.0\ref\LojaVendeTudo.dll
+C:\Users\luanp\OneDrive\Área de Trabalho\programação\POO\LojaVendeTudo\LojaVendeTudo\bin\Debug\net8.0\LojaVendeTudo.exe
+C:\Users\luanp\OneDrive\Área de Trabalho\programação\POO\LojaVendeTudo\LojaVendeTudo\bin\Debug\net8.0\LojaVendeTudo.deps.json
+C:\Users\luanp\OneDrive\Área de Trabalho\programação\POO\LojaVendeTudo\LojaVendeTudo\bin\Debug\net8.0\LojaVendeTudo.runtimeconfig.json
+C:\Users\luanp\OneDrive\Área de Trabalho\programação\POO\LojaVendeTudo\LojaVendeTudo\bin\Debug\net8.0\LojaVendeTudo.dll
+C:\Users\luanp\OneDrive\Área de Trabalho\programação\POO\LojaVendeTudo\LojaVendeTudo\bin\Debug\net8.0\LojaVendeTudo.pdb
+C:\Users\luanp\OneDrive\Área de Trabalho\programação\POO\LojaVendeTudo\LojaVendeTudo\obj\Debug\net8.0\LojaVendeTudo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luanp\OneDrive\Área de Trabalho\programação\POO\LojaVendeTudo\LojaVendeTudo\obj\Debug\net8.0\LojaVendeTudo.AssemblyInfoInputs.cache
+C:\Users\luanp\OneDrive\Área de Trabalho\programação\POO\LojaVendeTudo\LojaVendeTudo\obj\Debug\net8.0\LojaVendeTudo.AssemblyInfo.cs
+C:\Users\luanp\OneDrive\Área de Trabalho\programação\POO\LojaVendeTudo\LojaVendeTudo\obj\Debug\net8.0\LojaVendeTudo.csproj.CoreCompileInputs.cache
+C:\Users\luanp\OneDrive\Área de Trabalho\programação\POO\LojaVendeTudo\LojaVendeTudo\obj\Debug\net8.0\LojaVendeTudo.sourcelink.json
+C:\Users\luanp\OneDrive\Área de Trabalho\programação\POO\LojaVendeTudo\LojaVendeTudo\obj\Debug\net8.0\LojaVendeTudo.dll
+C:\Users\luanp\OneDrive\Área de Trabalho\programação\POO\LojaVendeTudo\LojaVendeTudo\obj\Debug\net8.0\refint\LojaVendeTudo.dll
+C:\Users\luanp\OneDrive\Área de Trabalho\programação\POO\LojaVendeTudo\LojaVendeTudo\obj\Debug\net8.0\LojaVendeTudo.pdb
+C:\Users\luanp\OneDrive\Área de Trabalho\programação\POO\LojaVendeTudo\LojaVendeTudo\obj\Debug\net8.0\LojaVendeTudo.genruntimeconfig.cache
+C:\Users\luanp\OneDrive\Área de Trabalho\programação\POO\LojaVendeTudo\LojaVendeTudo\obj\Debug\net8.0\ref\LojaVendeTudo.dll

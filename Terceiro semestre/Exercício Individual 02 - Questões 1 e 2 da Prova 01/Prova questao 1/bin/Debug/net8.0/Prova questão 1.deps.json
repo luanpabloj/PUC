@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Prova questão 1/1.0.0": {
+        "runtime": {
+          "Prova questão 1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Prova questão 1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

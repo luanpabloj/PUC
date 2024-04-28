@@ -1,0 +1,14 @@
+C:\Users\luanp\source\repos\questoes da prova\questoes da prova\obj\Debug\net8.0\questoes da prova.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luanp\source\repos\questoes da prova\questoes da prova\obj\Debug\net8.0\questoes da prova.AssemblyInfoInputs.cache
+C:\Users\luanp\source\repos\questoes da prova\questoes da prova\obj\Debug\net8.0\questoes da prova.AssemblyInfo.cs
+C:\Users\luanp\source\repos\questoes da prova\questoes da prova\obj\Debug\net8.0\questoes da prova.csproj.CoreCompileInputs.cache
+C:\Users\luanp\source\repos\questoes da prova\questoes da prova\bin\Debug\net8.0\questoes da prova.exe
+C:\Users\luanp\source\repos\questoes da prova\questoes da prova\bin\Debug\net8.0\questoes da prova.deps.json
+C:\Users\luanp\source\repos\questoes da prova\questoes da prova\bin\Debug\net8.0\questoes da prova.runtimeconfig.json
+C:\Users\luanp\source\repos\questoes da prova\questoes da prova\bin\Debug\net8.0\questoes da prova.dll
+C:\Users\luanp\source\repos\questoes da prova\questoes da prova\bin\Debug\net8.0\questoes da prova.pdb
+C:\Users\luanp\source\repos\questoes da prova\questoes da prova\obj\Debug\net8.0\questoes da prova.dll
+C:\Users\luanp\source\repos\questoes da prova\questoes da prova\obj\Debug\net8.0\refint\questoes da prova.dll
+C:\Users\luanp\source\repos\questoes da prova\questoes da prova\obj\Debug\net8.0\questoes da prova.pdb
+C:\Users\luanp\source\repos\questoes da prova\questoes da prova\obj\Debug\net8.0\questoes da prova.genruntimeconfig.cache
+C:\Users\luanp\source\repos\questoes da prova\questoes da prova\obj\Debug\net8.0\ref\questoes da prova.dll

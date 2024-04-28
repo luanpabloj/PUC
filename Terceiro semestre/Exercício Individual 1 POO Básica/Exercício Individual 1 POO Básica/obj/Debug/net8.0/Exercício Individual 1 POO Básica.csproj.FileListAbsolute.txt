@@ -1,0 +1,29 @@
+C:\Users\luanp\source\repos\Exercício Individual 1 POO Básica\Exercício Individual 1 POO Básica\bin\Debug\net8.0\Exercício Individual 1 POO Básica.exe
+C:\Users\luanp\source\repos\Exercício Individual 1 POO Básica\Exercício Individual 1 POO Básica\bin\Debug\net8.0\Exercício Individual 1 POO Básica.deps.json
+C:\Users\luanp\source\repos\Exercício Individual 1 POO Básica\Exercício Individual 1 POO Básica\bin\Debug\net8.0\Exercício Individual 1 POO Básica.runtimeconfig.json
+C:\Users\luanp\source\repos\Exercício Individual 1 POO Básica\Exercício Individual 1 POO Básica\bin\Debug\net8.0\Exercício Individual 1 POO Básica.dll
+C:\Users\luanp\source\repos\Exercício Individual 1 POO Básica\Exercício Individual 1 POO Básica\bin\Debug\net8.0\Exercício Individual 1 POO Básica.pdb
+C:\Users\luanp\source\repos\Exercício Individual 1 POO Básica\Exercício Individual 1 POO Básica\obj\Debug\net8.0\Exercício Individual 1 POO Básica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luanp\source\repos\Exercício Individual 1 POO Básica\Exercício Individual 1 POO Básica\obj\Debug\net8.0\Exercício Individual 1 POO Básica.AssemblyInfoInputs.cache
+C:\Users\luanp\source\repos\Exercício Individual 1 POO Básica\Exercício Individual 1 POO Básica\obj\Debug\net8.0\Exercício Individual 1 POO Básica.AssemblyInfo.cs
+C:\Users\luanp\source\repos\Exercício Individual 1 POO Básica\Exercício Individual 1 POO Básica\obj\Debug\net8.0\Exercício Individual 1 POO Básica.csproj.CoreCompileInputs.cache
+C:\Users\luanp\source\repos\Exercício Individual 1 POO Básica\Exercício Individual 1 POO Básica\obj\Debug\net8.0\Exercício Individual 1 POO Básica.dll
+C:\Users\luanp\source\repos\Exercício Individual 1 POO Básica\Exercício Individual 1 POO Básica\obj\Debug\net8.0\refint\Exercício Individual 1 POO Básica.dll
+C:\Users\luanp\source\repos\Exercício Individual 1 POO Básica\Exercício Individual 1 POO Básica\obj\Debug\net8.0\Exercício Individual 1 POO Básica.pdb
+C:\Users\luanp\source\repos\Exercício Individual 1 POO Básica\Exercício Individual 1 POO Básica\obj\Debug\net8.0\Exercício Individual 1 POO Básica.genruntimeconfig.cache
+C:\Users\luanp\source\repos\Exercício Individual 1 POO Básica\Exercício Individual 1 POO Básica\obj\Debug\net8.0\ref\Exercício Individual 1 POO Básica.dll
+C:\Users\luanp\OneDrive\Área de Trabalho\programação\POO\Exercício Individual 1 POO Básica\Exercício Individual 1 POO Básica\bin\Debug\net8.0\Exercício Individual 1 POO Básica.exe
+C:\Users\luanp\OneDrive\Área de Trabalho\programação\POO\Exercício Individual 1 POO Básica\Exercício Individual 1 POO Básica\bin\Debug\net8.0\Exercício Individual 1 POO Básica.deps.json
+C:\Users\luanp\OneDrive\Área de Trabalho\programação\POO\Exercício Individual 1 POO Básica\Exercício Individual 1 POO Básica\bin\Debug\net8.0\Exercício Individual 1 POO Básica.runtimeconfig.json
+C:\Users\luanp\OneDrive\Área de Trabalho\programação\POO\Exercício Individual 1 POO Básica\Exercício Individual 1 POO Básica\bin\Debug\net8.0\Exercício Individual 1 POO Básica.dll
+C:\Users\luanp\OneDrive\Área de Trabalho\programação\POO\Exercício Individual 1 POO Básica\Exercício Individual 1 POO Básica\bin\Debug\net8.0\Exercício Individual 1 POO Básica.pdb
+C:\Users\luanp\OneDrive\Área de Trabalho\programação\POO\Exercício Individual 1 POO Básica\Exercício Individual 1 POO Básica\obj\Debug\net8.0\Exercício Individual 1 POO Básica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luanp\OneDrive\Área de Trabalho\programação\POO\Exercício Individual 1 POO Básica\Exercício Individual 1 POO Básica\obj\Debug\net8.0\Exercício Individual 1 POO Básica.AssemblyInfoInputs.cache
+C:\Users\luanp\OneDrive\Área de Trabalho\programação\POO\Exercício Individual 1 POO Básica\Exercício Individual 1 POO Básica\obj\Debug\net8.0\Exercício Individual 1 POO Básica.AssemblyInfo.cs
+C:\Users\luanp\OneDrive\Área de Trabalho\programação\POO\Exercício Individual 1 POO Básica\Exercício Individual 1 POO Básica\obj\Debug\net8.0\Exercício Individual 1 POO Básica.csproj.CoreCompileInputs.cache
+C:\Users\luanp\OneDrive\Área de Trabalho\programação\POO\Exercício Individual 1 POO Básica\Exercício Individual 1 POO Básica\obj\Debug\net8.0\Exercício Individual 1 POO Básica.sourcelink.json
+C:\Users\luanp\OneDrive\Área de Trabalho\programação\POO\Exercício Individual 1 POO Básica\Exercício Individual 1 POO Básica\obj\Debug\net8.0\Exercício Individual 1 POO Básica.dll
+C:\Users\luanp\OneDrive\Área de Trabalho\programação\POO\Exercício Individual 1 POO Básica\Exercício Individual 1 POO Básica\obj\Debug\net8.0\refint\Exercício Individual 1 POO Básica.dll
+C:\Users\luanp\OneDrive\Área de Trabalho\programação\POO\Exercício Individual 1 POO Básica\Exercício Individual 1 POO Básica\obj\Debug\net8.0\Exercício Individual 1 POO Básica.pdb
+C:\Users\luanp\OneDrive\Área de Trabalho\programação\POO\Exercício Individual 1 POO Básica\Exercício Individual 1 POO Básica\obj\Debug\net8.0\Exercício Individual 1 POO Básica.genruntimeconfig.cache
+C:\Users\luanp\OneDrive\Área de Trabalho\programação\POO\Exercício Individual 1 POO Básica\Exercício Individual 1 POO Básica\obj\Debug\net8.0\ref\Exercício Individual 1 POO Básica.dll
